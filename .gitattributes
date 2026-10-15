@@ -1,0 +1,21 @@
+# Set default behavior to automatically normalize line endings.
+* text=auto eol=lf
+
+# Explicit text files
+*.py text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.ini text eol=lf
+
+# Binary files
+*.docx binary
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary
+*.svg text

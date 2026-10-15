@@ -1,0 +1,4494 @@
+{
+  "document_id": "bd973da4",
+  "total_elements": 143,
+  "ambiguous_elements_count": 9,
+  "llm_classified_count": 9,
+  "deterministic_classified_count": 134,
+  "role_counts": {
+    "figure": 4,
+    "heading": 34,
+    "document_title": 1,
+    "table": 1,
+    "body_paragraph": 58,
+    "caption": 2,
+    "bullet_list_item": 30,
+    "numbered_list_item": 11,
+    "reference": 2
+  },
+  "method_counts": {
+    "rule": 108,
+    "llm": 9,
+    "style": 26
+  },
+  "elements": [
+    {
+      "id": "el_bd973da4_0001",
+      "type": "figure",
+      "level": 0,
+      "text": null,
+      "source_order": 1,
+      "style_name": "Normal",
+      "confidence": 0.95,
+      "metadata": {
+        "image_count": 1,
+        "drawing_rids": [
+          "rId7"
+        ],
+        "section_index": 0,
+        "semantic": {
+          "role": "figure",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "figure",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "structural_figure",
+        "image_count": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0002",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Alliance School of Advanced Computing",
+      "source_order": 2,
+      "style_name": "Normal",
+      "confidence": 1.0,
+      "metadata": {
+        "is_bold": true,
+        "section_index": 0,
+        "semantic": {
+          "role": "heading",
+          "level": 2,
+          "confidence": 0.88,
+          "method": "llm",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.88,
+      "semantic_method": "llm",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "ambiguity_reason": "manual_bold_or_numbered_heading",
+        "is_bold": true,
+        "has_prefix": false,
+        "llm_reasoning": "Short bold non-punctuated line interpreted as subsection heading",
+        "llm_role": "heading"
+      }
+    },
+    {
+      "id": "el_bd973da4_0003",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Bengaluru",
+      "source_order": 3,
+      "style_name": "Normal",
+      "confidence": 1.0,
+      "metadata": {
+        "is_bold": true,
+        "section_index": 0,
+        "semantic": {
+          "role": "heading",
+          "level": 2,
+          "confidence": 0.88,
+          "method": "llm",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.88,
+      "semantic_method": "llm",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "ambiguity_reason": "manual_bold_or_numbered_heading",
+        "is_bold": true,
+        "has_prefix": false,
+        "llm_reasoning": "Short bold non-punctuated line interpreted as subsection heading",
+        "llm_role": "heading"
+      }
+    },
+    {
+      "id": "el_bd973da4_0004",
+      "type": "paragraph",
+      "level": 0,
+      "text": "ENVIRONMENTAL SCIENCE MODULE I: CASE STUDY REPORT",
+      "source_order": 4,
+      "style_name": "Normal",
+      "confidence": 1.0,
+      "metadata": {
+        "is_bold": true,
+        "section_index": 0,
+        "semantic": {
+          "role": "heading",
+          "level": 2,
+          "confidence": 0.88,
+          "method": "llm",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.88,
+      "semantic_method": "llm",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "ambiguity_reason": "manual_bold_or_numbered_heading",
+        "is_bold": true,
+        "has_prefix": false,
+        "llm_reasoning": "Short bold non-punctuated line interpreted as subsection heading",
+        "llm_role": "heading"
+      }
+    },
+    {
+      "id": "el_bd973da4_0005",
+      "type": "paragraph",
+      "level": 0,
+      "text": "E-Waste Crisis in Seelampur, Delhi",
+      "source_order": 5,
+      "style_name": "Normal",
+      "confidence": 1.0,
+      "metadata": {
+        "is_bold": true,
+        "section_index": 0,
+        "semantic": {
+          "role": "heading",
+          "level": 2,
+          "confidence": 0.88,
+          "method": "llm",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.88,
+      "semantic_method": "llm",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "ambiguity_reason": "manual_bold_or_numbered_heading",
+        "is_bold": true,
+        "has_prefix": false,
+        "llm_reasoning": "Short bold non-punctuated line interpreted as subsection heading",
+        "llm_role": "heading"
+      }
+    },
+    {
+      "id": "el_bd973da4_0006",
+      "type": "heading",
+      "level": 1,
+      "text": "TOPIC",
+      "source_order": 6,
+      "style_name": "Title",
+      "confidence": 1.0,
+      "metadata": {
+        "subrole": "title",
+        "section_index": 0,
+        "semantic": {
+          "role": "document_title",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "document_title",
+      "semantic_confidence": 0.95,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "document_title",
+        "source_order": 6,
+        "style": "Title"
+      }
+    },
+    {
+      "id": "el_bd973da4_0007",
+      "type": "paragraph",
+      "level": 0,
+      "text": "“Environmental and Social Impacts of Informal Electronic Waste Recycling”",
+      "source_order": 7,
+      "style_name": "Normal",
+      "confidence": 1.0,
+      "metadata": {
+        "is_bold": true,
+        "section_index": 0,
+        "semantic": {
+          "role": "heading",
+          "level": 2,
+          "confidence": 0.88,
+          "method": "llm",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.88,
+      "semantic_method": "llm",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "ambiguity_reason": "manual_bold_or_numbered_heading",
+        "is_bold": true,
+        "has_prefix": false,
+        "llm_reasoning": "Short bold non-punctuated line interpreted as subsection heading",
+        "llm_role": "heading"
+      }
+    },
+    {
+      "id": "el_bd973da4_0008",
+      "type": "table",
+      "level": 0,
+      "text": null,
+      "source_order": 8,
+      "style_name": "Normal Table",
+      "confidence": 1.0,
+      "metadata": {
+        "row_count": 6,
+        "column_count": 2,
+        "cell_text": [
+          [
+            "Name(s) of Students & Registration Number(s)",
+            "Kalyan Sadhukhan (2023BCSE07AED217)"
+          ],
+          [
+            "",
+            "Pichikala Kali Bhargav Sai (2023BCSE07AED278)"
+          ],
+          [
+            "",
+            "Soumay Puri(2023LCSE07AED660)"
+          ],
+          [
+            "Section / Semester",
+            "[CSE-AIML-C / 7th Semester]"
+          ],
+          [
+            "School / Institution",
+            "Alliance University, Bengaluru"
+          ],
+          [
+            "Course",
+            "Environmental Science – Module I"
+          ]
+        ],
+        "has_merged_cells": true,
+        "merged_cells_info": [
+          {
+            "row": 0,
+            "col": 0,
+            "type": "vertical",
+            "state": "restart",
+            "row_span": 3
+          },
+          {
+            "row": 1,
+            "col": 0,
+            "type": "vertical",
+            "state": "continue",
+            "origin_row": 0
+          },
+          {
+            "row": 2,
+            "col": 0,
+            "type": "vertical",
+            "state": "continue",
+            "origin_row": 0
+          }
+        ],
+        "section_index": 0,
+        "semantic": {
+          "role": "table",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "table",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "structural_table",
+        "row_count": 6
+      }
+    },
+    {
+      "id": "el_bd973da4_0009",
+      "type": "paragraph",
+      "level": 0,
+      "text": "1",
+      "source_order": 9,
+      "style_name": "Normal",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 0,
+        "semantic": {
+          "role": "heading",
+          "level": 2,
+          "confidence": 0.88,
+          "method": "llm",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.88,
+      "semantic_method": "llm",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "ambiguity_reason": "short_unstyled_non_punctuated_text",
+        "llm_reasoning": "Short bold non-punctuated line interpreted as subsection heading",
+        "llm_role": "heading"
+      }
+    },
+    {
+      "id": "el_bd973da4_0010",
+      "type": "heading",
+      "level": 1,
+      "text": "Introduction",
+      "source_order": 10,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "break_before": "section",
+        "section_index": 1,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0011",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Electronic waste (E-Waste): Discarded electrical and electronic products, including mobile phones, computers, televisions, refrigerators, circuit boards, batteries and other electronic devices. Due to fast technology advancements, rapid product turnaround and rising consumer demand, e-waste is one of the largest growing waste streams globally. In 2022, the world produced around 62 million tonnes of e-waste, and only 1/4 was officially recorded as being recycled. Hazardous materials and substances may be released into the environment if they are improperly handled.",
+      "source_order": 11,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 1,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 570
+      }
+    },
+    {
+      "id": "el_bd973da4_0012",
+      "type": "paragraph",
+      "level": 0,
+      "text": "The amount of e-waste produced is also increasing at an unprecedented rate in India. The Government of India has found that the total e-waste collected in 2021–22 on the basis of CPCB estimates reached to 16,01,155 tonnes as compared to 7,08,445 tonnes in 2017–18.",
+      "source_order": 12,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 1,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 264
+      }
+    },
+    {
+      "id": "el_bd973da4_0013",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Delhi is an important centre in India’s e-waste economy. The area of Old Seelampur in particular strongly reflects the informal sector for the collection, dismantling and recovery of electronic waste and has grown to become a major market in this field. The discarded electronics are dismantled manually to remove materials like copper, aluminium and other valuable parts. The activity is employed and recovers valuable materials, but a large number of activities are conducted in small, inadequately managed workplaces, without adequate environmental and work health protection. A study has been conducted which has identified Seelampur as one of the three major informal e-waste processing hotspots in Delhi.",
+      "source_order": 13,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 1,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 710
+      }
+    },
+    {
+      "id": "el_bd973da4_0014",
+      "type": "heading",
+      "level": 1,
+      "text": "Location & Context",
+      "source_order": 14,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 1,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0015",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Seelampur comes under Shahdara region of North-East/East Delhi. It is a well population area where the residential and commercial development has resulted in markets for scrap and electronic components and informal recycling.",
+      "source_order": 15,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 1,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 225
+      }
+    },
+    {
+      "id": "el_bd973da4_0016",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Delhi's informal e-waste processing areas have been identified as the informal e-waste processing areas of Old and New Seelampur, Mustafabad, Mandoli, Mayapuri, Turkman Gate and other areas.",
+      "source_order": 16,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 1,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 190
+      }
+    },
+    {
+      "id": "el_bd973da4_0017",
+      "type": "paragraph",
+      "level": 0,
+      "text": "One of the key characteristics of Seelampur is waste generation and informal employment and material recovery. When electronic products are nearly out of use they go through a chain of recipients, collectors, scrap dealers, dismantlers and material traders. Materials of value are retrieved and sold while material that has little or no economic value may be disposed.",
+      "source_order": 17,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 1,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 368
+      }
+    },
+    {
+      "id": "el_bd973da4_0018",
+      "type": "paragraph",
+      "level": 0,
+      "text": "The field reports in recent past also show that Old Seelampur is still an active hub of e-waste and electronic scrap is being broken and sorted along narrow lanes and tiny workshops.",
+      "source_order": 18,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 1,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 182
+      }
+    },
+    {
+      "id": "el_bd973da4_0019",
+      "type": "figure",
+      "level": 0,
+      "text": null,
+      "source_order": 19,
+      "style_name": "Normal",
+      "confidence": 0.95,
+      "metadata": {
+        "image_count": 3,
+        "drawing_rids": [
+          "rId9",
+          "rId10",
+          "rId11"
+        ],
+        "break_before": "section",
+        "section_index": 2,
+        "caption_id": "el_bd973da4_0020",
+        "semantic": {
+          "role": "figure",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "figure",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "structural_figure",
+        "image_count": 3
+      }
+    },
+    {
+      "id": "el_bd973da4_0020",
+      "type": "caption",
+      "level": 0,
+      "text": "Figure 1: Major informal e-waste processing hotspots in Delhi, including Old and New Seelampur.",
+      "source_order": 20,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "caption_type": "figure",
+        "number": "1",
+        "label": "Major informal e-waste processing hotspots in Delhi, including Old and New Seelampur.",
+        "figure_id": "el_bd973da4_0019",
+        "section_index": 2,
+        "semantic": {
+          "role": "caption",
+          "level": 0,
+          "confidence": 0.98,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "caption",
+      "semantic_confidence": 0.98,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "caption_pairing",
+        "figure_id": "el_bd973da4_0019"
+      }
+    },
+    {
+      "id": "el_bd973da4_0021",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Source: Toxics Link.",
+      "source_order": 21,
+      "style_name": "Normal",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 2,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.85,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.85,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "default_paragraph_fallback"
+      }
+    },
+    {
+      "id": "el_bd973da4_0022",
+      "type": "heading",
+      "level": 1,
+      "text": "Problem",
+      "source_order": 22,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 2,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0023",
+      "type": "paragraph",
+      "level": 0,
+      "text": "The informal and unsafe processing of the e-waste is the core environmental issue.",
+      "source_order": 23,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 2,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.85,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.85,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "default_paragraph_fallback"
+      }
+    },
+    {
+      "id": "el_bd973da4_0024",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Electronic devices have valuable and hazardous materials on them. In an informal dismantling, parts can be disassembled by hand and electrical parts or wires may be stripped using an untidy technique. Hazardous substances may be released into the air, soil and water where they are burned or extracted using acid.",
+      "source_order": 24,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 2,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 313
+      }
+    },
+    {
+      "id": "el_bd973da4_0025",
+      "type": "paragraph",
+      "level": 0,
+      "text": "A study of the informal e-waste recycling centers in Delhi revealed signs of soil acidification and high levels of heavy metals for crude processing of e-waste in the sites. A considerable degree of acidification was noted at the acid leaching sites, where the pH was determined to be around 4.01-5.01.",
+      "source_order": 25,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 2,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 302
+      }
+    },
+    {
+      "id": "el_bd973da4_0026",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Thus, the issue of waste electronics in Seelampur is not only about the volume of waste but also the types of electronics and their usage. The blending of:",
+      "source_order": 26,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 2,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 155
+      }
+    },
+    {
+      "id": "el_bd973da4_0027",
+      "type": "bullet_list",
+      "level": 0,
+      "text": "The amount of e-waste collected.",
+      "source_order": 27,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "4",
+        "abstract_num_id": "1",
+        "num_fmt": "bullet",
+        "section_index": 2,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "4"
+      }
+    },
+    {
+      "id": "el_bd973da4_0028",
+      "type": "bullet_list",
+      "level": 0,
+      "text": "Impressive quantities of e-waste.",
+      "source_order": 28,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "4",
+        "abstract_num_id": "1",
+        "num_fmt": "bullet",
+        "section_index": 2,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "4"
+      }
+    },
+    {
+      "id": "el_bd973da4_0029",
+      "type": "bullet_list",
+      "level": 0,
+      "text": "Informal dismantling and recycling",
+      "source_order": 29,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "4",
+        "abstract_num_id": "1",
+        "num_fmt": "bullet",
+        "break_before": "section",
+        "section_index": 3,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "4"
+      }
+    },
+    {
+      "id": "el_bd973da4_0030",
+      "type": "bullet_list",
+      "level": 0,
+      "text": "Inadequate worker protection",
+      "source_order": 30,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "4",
+        "abstract_num_id": "1",
+        "num_fmt": "bullet",
+        "section_index": 3,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "4"
+      }
+    },
+    {
+      "id": "el_bd973da4_0031",
+      "type": "bullet_list",
+      "level": 0,
+      "text": "Poor waste-residue disposal",
+      "source_order": 31,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "4",
+        "abstract_num_id": "1",
+        "num_fmt": "bullet",
+        "section_index": 3,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "4"
+      }
+    },
+    {
+      "id": "el_bd973da4_0032",
+      "type": "bullet_list",
+      "level": 0,
+      "text": "A potential source of soil and water contamination that could lead to adverse effects.",
+      "source_order": 32,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "4",
+        "abstract_num_id": "1",
+        "num_fmt": "bullet",
+        "section_index": 3,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "4"
+      }
+    },
+    {
+      "id": "el_bd973da4_0033",
+      "type": "bullet_list",
+      "level": 0,
+      "text": "Pollution of communities around the area.Nearby communities exposed to pollutant(s).",
+      "source_order": 33,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "4",
+        "abstract_num_id": "1",
+        "num_fmt": "bullet",
+        "section_index": 3,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "4"
+      }
+    },
+    {
+      "id": "el_bd973da4_0034",
+      "type": "heading",
+      "level": 1,
+      "text": "Causes",
+      "source_order": 34,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 3,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0035",
+      "type": "paragraph",
+      "level": 0,
+      "text": "The e-waste problem in Seelampur is multifaceted, and can be attributed to some of the following factors:",
+      "source_order": 35,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 3,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 105
+      }
+    },
+    {
+      "id": "el_bd973da4_0036",
+      "type": "bullet_list",
+      "level": 0,
+      "text": "Increased use of electronics.Fast electronic use.",
+      "source_order": 36,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "4",
+        "abstract_num_id": "1",
+        "num_fmt": "bullet",
+        "section_index": 3,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "4"
+      }
+    },
+    {
+      "id": "el_bd973da4_0037",
+      "type": "bullet_list",
+      "level": 0,
+      "text": "The more people own a smartphone, computer, TV and home appliances, the more electronics to be recycled.",
+      "source_order": 37,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "4",
+        "abstract_num_id": "1",
+        "num_fmt": "bullet",
+        "section_index": 3,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "4"
+      }
+    },
+    {
+      "id": "el_bd973da4_0038",
+      "type": "bullet_list",
+      "level": 0,
+      "text": "Rapidly changing product life cycles.Faster product life cycles.",
+      "source_order": 38,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "4",
+        "abstract_num_id": "1",
+        "num_fmt": "bullet",
+        "section_index": 3,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "4"
+      }
+    },
+    {
+      "id": "el_bd973da4_0039",
+      "type": "bullet_list",
+      "level": 0,
+      "text": "Technological advances and/or changes in consumer needs, preferences and/or repair costs are frequent reasons for replacing electronic products.",
+      "source_order": 39,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "4",
+        "abstract_num_id": "1",
+        "num_fmt": "bullet",
+        "section_index": 3,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "4"
+      }
+    },
+    {
+      "id": "el_bd973da4_0040",
+      "type": "bullet_list",
+      "level": 0,
+      "text": "Relying on informal recycling as a way of earning income.Economic dependency on informal recycling.",
+      "source_order": 40,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "4",
+        "abstract_num_id": "1",
+        "num_fmt": "bullet",
+        "section_index": 3,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "4"
+      }
+    },
+    {
+      "id": "el_bd973da4_0041",
+      "type": "bullet_list",
+      "level": 0,
+      "text": "The e-waste includes materials which have value in resale. Informal recycling opportunities create jobs that are available to people who might not be able to find formal jobs. Thus, both dismantling and material recovery are still subject to economic recovery.",
+      "source_order": 41,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "4",
+        "abstract_num_id": "1",
+        "num_fmt": "bullet",
+        "section_index": 3,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "4"
+      }
+    },
+    {
+      "id": "el_bd973da4_0042",
+      "type": "bullet_list",
+      "level": 0,
+      "text": "Low cost of informal processing",
+      "source_order": 42,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "4",
+        "abstract_num_id": "1",
+        "num_fmt": "bullet",
+        "section_index": 3,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "4"
+      }
+    },
+    {
+      "id": "el_bd973da4_0043",
+      "type": "bullet_list",
+      "level": 0,
+      "text": "These informal workshops can be based on a relatively small investment as they do not necessarily have to be equipped with the infrastructure, pollution-control systems or worker-protection technologies found in formal recycling facilities.",
+      "source_order": 43,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "4",
+        "abstract_num_id": "1",
+        "num_fmt": "bullet",
+        "section_index": 3,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "4"
+      }
+    },
+    {
+      "id": "el_bd973da4_0044",
+      "type": "bullet_list",
+      "level": 0,
+      "text": "Poor picking and sorting of waste.Poor pick and sort of waste.",
+      "source_order": 44,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "4",
+        "abstract_num_id": "1",
+        "num_fmt": "bullet",
+        "section_index": 3,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "4"
+      }
+    },
+    {
+      "id": "el_bd973da4_0045",
+      "type": "bullet_list",
+      "level": 0,
+      "text": "Unwanted e-waste sold to the informal scrap recycling market may be involved in an uncontrolled recycling chain.",
+      "source_order": 45,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "4",
+        "abstract_num_id": "1",
+        "num_fmt": "bullet",
+        "section_index": 3,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "4"
+      }
+    },
+    {
+      "id": "el_bd973da4_0046",
+      "type": "bullet_list",
+      "level": 0,
+      "text": "No awareness and protective equipment",
+      "source_order": 46,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "4",
+        "abstract_num_id": "1",
+        "num_fmt": "bullet",
+        "section_index": 3,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "4"
+      }
+    },
+    {
+      "id": "el_bd973da4_0047",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Delhi-based informal wasteworkers were involved in a study which revealed a lack of information regarding risks of e-waste. In a survey of 220 workers in Seelampur, Mustafabad and Mandoli, only 24% of them knew what e-waste was and 36% knew about the chemicals which might be released during e-waste handling.",
+      "source_order": 47,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 3,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 309
+      }
+    },
+    {
+      "id": "el_bd973da4_0048",
+      "type": "heading",
+      "level": 1,
+      "text": "Environmental Impacts",
+      "source_order": 48,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "break_before": "section",
+        "section_index": 4,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0049",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Air pollution",
+      "source_order": 49,
+      "style_name": "Normal",
+      "confidence": 1.0,
+      "metadata": {
+        "is_bold": true,
+        "section_index": 4,
+        "semantic": {
+          "role": "heading",
+          "level": 2,
+          "confidence": 0.88,
+          "method": "llm",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.88,
+      "semantic_method": "llm",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "ambiguity_reason": "manual_bold_or_numbered_heading",
+        "is_bold": true,
+        "has_prefix": false,
+        "llm_reasoning": "Short bold non-punctuated line interpreted as subsection heading",
+        "llm_role": "heading"
+      }
+    },
+    {
+      "id": "el_bd973da4_0050",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Electronic components, plastics and wires may emit toxic gas and particles when these are set on fire. Some of the valuable metals can be extracted from insulation or other materials by burning. This can lead to adverse impacts on air quality and cause exposure to dangerous pollutants for workers and people living in the vicinity.",
+      "source_order": 50,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 4,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 332
+      }
+    },
+    {
+      "id": "el_bd973da4_0051",
+      "type": "heading",
+      "level": 1,
+      "text": "Soil contamination",
+      "source_order": 51,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 4,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0052",
+      "type": "paragraph",
+      "level": 0,
+      "text": "The major environmental issues include heavy metal and other pollutant levels in soil.",
+      "source_order": 52,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 4,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.85,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.85,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "default_paragraph_fallback"
+      }
+    },
+    {
+      "id": "el_bd973da4_0053",
+      "type": "paragraph",
+      "level": 0,
+      "text": "If the components and the acidic residues generated by the process are not disposed of properly, various elements are released into the environment, including, but not limited to, lead, copper, chromium and other metals. A study of informal e-waste recycling units in Delhi revealed significant risks of contamination in the informal sector in the recycling of e-waste.",
+      "source_order": 53,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 4,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 369
+      }
+    },
+    {
+      "id": "el_bd973da4_0054",
+      "type": "heading",
+      "level": 1,
+      "text": "Water pollution",
+      "source_order": 54,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 4,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0055",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Acidic liquids and residues that become contaminated may flow into drains or into soil and into the groundwater. This is especially a matter of interest in highly populated neighborhoods with residents' activities located near informal recyclers.",
+      "source_order": 55,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 4,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 246
+      }
+    },
+    {
+      "id": "el_bd973da4_0056",
+      "type": "heading",
+      "level": 1,
+      "text": "Inadequate (low quality) environment",
+      "source_order": 56,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 4,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0057",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Electronic waste lying in uncovered areas creates pollution and impedes roads, drainage and places hazardous material into the stream of ordinary city trash. This makes the waste collection and subsequent treatment more difficult.",
+      "source_order": 57,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 4,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 230
+      }
+    },
+    {
+      "id": "el_bd973da4_0058",
+      "type": "heading",
+      "level": 1,
+      "text": "Resource loss",
+      "source_order": 58,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 4,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0059",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Recycling can also be done in an incorrect manner, which results in the loss of recoverable materials. Valuable materials can be recovered from the recyclables in electronics through environmentally-controlled recycling. A formal recycling system can, therefore, help to minimise environmental damage and the requirement for virgin resource extraction, if it is efficient.6. Social/Economic Impacts",
+      "source_order": 59,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 4,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 398
+      }
+    },
+    {
+      "id": "el_bd973da4_0060",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Seelampur e-waste economy has a positive and negative socioeconomic impact.",
+      "source_order": 60,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 4,
+        "section_boundary": {
+          "type": "nextPage",
+          "page_width": "12240",
+          "page_height": "15840",
+          "orientation": "portrait",
+          "margins": {
+            "top": "1580",
+            "bottom": "920",
+            "left": "1080",
+            "right": "360",
+            "header": "0",
+            "footer": "738"
+          },
+          "section_index": 4
+        },
+        "section_break_after": true,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.85,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.85,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "default_paragraph_fallback"
+      }
+    },
+    {
+      "id": "el_bd973da4_0061",
+      "type": "heading",
+      "level": 1,
+      "text": "Employment and livelihood",
+      "source_order": 61,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "break_before": "section",
+        "section_index": 5,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0062",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Many e-waste collectors, informal sector dismantlers, informal sector material recovery workers (MRWs) are earning income from this informal sector. The study has found that several thousand individuals are linked to the wider Seelampur e-waste economy, with the number estimated differently among various research reports and should in no way be used as an exact estimation of the current population in the area.",
+      "source_order": 62,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 5,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 413
+      }
+    },
+    {
+      "id": "el_bd973da4_0063",
+      "type": "heading",
+      "level": 1,
+      "text": "Occupational health risks",
+      "source_order": 63,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 5,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0064",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Workers can use their hands to access electronic components and/or without necessary protective equipment. They could be exposed to:",
+      "source_order": 64,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 5,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 132
+      }
+    },
+    {
+      "id": "el_bd973da4_0065",
+      "type": "bullet_list",
+      "level": 0,
+      "text": "Metallic dust",
+      "source_order": 65,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "4",
+        "abstract_num_id": "1",
+        "num_fmt": "bullet",
+        "section_index": 5,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "4"
+      }
+    },
+    {
+      "id": "el_bd973da4_0066",
+      "type": "bullet_list",
+      "level": 0,
+      "text": "Toxic fumes",
+      "source_order": 66,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "4",
+        "abstract_num_id": "1",
+        "num_fmt": "bullet",
+        "section_index": 5,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "4"
+      }
+    },
+    {
+      "id": "el_bd973da4_0067",
+      "type": "bullet_list",
+      "level": 0,
+      "text": "Sharp components",
+      "source_order": 67,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "4",
+        "abstract_num_id": "1",
+        "num_fmt": "bullet",
+        "section_index": 5,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "4"
+      }
+    },
+    {
+      "id": "el_bd973da4_0068",
+      "type": "bullet_list",
+      "level": 0,
+      "text": "Acidic substances",
+      "source_order": 68,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "4",
+        "abstract_num_id": "1",
+        "num_fmt": "bullet",
+        "section_index": 5,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "4"
+      }
+    },
+    {
+      "id": "el_bd973da4_0069",
+      "type": "bullet_list",
+      "level": 0,
+      "text": "The smoke of burning substances.",
+      "source_order": 69,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "4",
+        "abstract_num_id": "1",
+        "num_fmt": "bullet",
+        "section_index": 5,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "4"
+      }
+    },
+    {
+      "id": "el_bd973da4_0070",
+      "type": "bullet_list",
+      "level": 0,
+      "text": "Hazardous chemicals",
+      "source_order": 70,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "4",
+        "abstract_num_id": "1",
+        "num_fmt": "bullet",
+        "section_index": 5,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "4"
+      }
+    },
+    {
+      "id": "el_bd973da4_0071",
+      "type": "paragraph",
+      "level": 0,
+      "text": "In this study, conducted in Delhi, the researchers specifically looked at informal e-waste workers and discovered a lack of knowledge and protective measures concerning health-related issues.",
+      "source_order": 71,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 5,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 191
+      }
+    },
+    {
+      "id": "el_bd973da4_0072",
+      "type": "paragraph",
+      "level": 0,
+      "text": "A positive influence on surrounding communities.",
+      "source_order": 72,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 5,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.85,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.85,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "default_paragraph_fallback"
+      }
+    },
+    {
+      "id": "el_bd973da4_0073",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Pollution from some workshops may not be contained to workers, since some of them are located in or near residential communities. Contaminated dust and wastes and emissions may also be present and may come in contact with children and families and other residents.",
+      "source_order": 73,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 5,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 264
+      }
+    },
+    {
+      "id": "el_bd973da4_0074",
+      "type": "heading",
+      "level": 1,
+      "text": "Economic paradox",
+      "source_order": 74,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 5,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0075",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Informality does serve an economically productive purpose, focusing on the rehabilitation of valuable materials and diverting waste from disposal sites, with the transfer of some of the environmental and health cost on the worker and the community.",
+      "source_order": 75,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 5,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 248
+      }
+    },
+    {
+      "id": "el_bd973da4_0076",
+      "type": "paragraph",
+      "level": 0,
+      "text": "It is key to the case study that not everyone who recycles informally is to be blamed and that solutions should not be to get rid of informal recyclers. Their ability to sustain their livelihoods and contribution to resource recovery needs to be assessed, too.",
+      "source_order": 76,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 5,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 260
+      }
+    },
+    {
+      "id": "el_bd973da4_0077",
+      "type": "heading",
+      "level": 1,
+      "text": "Actions Taken",
+      "source_order": 77,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "break_before": "section",
+        "section_index": 6,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0078",
+      "type": "paragraph",
+      "level": 0,
+      "text": "India has continuously beefed up its e-waste regime. The E-Waste (Management) Rules, 2022 have superseded the rules in 2016 effective from 1 April 2023. The framework covers the manufacture, production, refurbishment, dismantling and recycling of EE products covered by the scope.",
+      "source_order": 78,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 6,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 280
+      }
+    },
+    {
+      "id": "el_bd973da4_0079",
+      "type": "paragraph",
+      "level": 0,
+      "text": "One of the main features of the current framework is Extended Producer Responsibility (EPR). The framework puts the responsibility of the management of e-waste arising from their products on the producers and the CPCB runs an online EPR system for relevant producers.",
+      "source_order": 79,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 6,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 267
+      }
+    },
+    {
+      "id": "el_bd973da4_0080",
+      "type": "paragraph",
+      "level": 0,
+      "text": "The Delhi government has also taken various steps in the past to make systematic e-waste collection possible. According to the Delhi Environment Department, markets for e-waste are available in Old Seelampur, Mayapuri, Mandoli, Turkman Gate etc, and there is a system in place where bins are designated and e-waste is collected by the authorised recyclers.",
+      "source_order": 80,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 6,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 356
+      }
+    },
+    {
+      "id": "el_bd973da4_0081",
+      "type": "paragraph",
+      "level": 0,
+      "text": "But enforcement of the regulations is a big problem. According to a status report sent by CPCB, Mandoli & Seelampur E-Waste Site, East Delhi is classified as contaminated site which needs detailed investigation and remediation planning.",
+      "source_order": 81,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 6,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 236
+      }
+    },
+    {
+      "id": "el_bd973da4_0082",
+      "type": "figure",
+      "level": 0,
+      "text": null,
+      "source_order": 82,
+      "style_name": "Body Text",
+      "confidence": 0.95,
+      "metadata": {
+        "image_count": 2,
+        "drawing_rids": [
+          "rId15",
+          "rId16"
+        ],
+        "section_index": 6,
+        "caption_id": "el_bd973da4_0083",
+        "semantic": {
+          "role": "figure",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "figure",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "structural_figure",
+        "image_count": 2
+      }
+    },
+    {
+      "id": "el_bd973da4_0083",
+      "type": "caption",
+      "level": 0,
+      "text": "Figure 2: Informal workers sorting and recovering materials from electronic waste in Seelampur, Delhi.",
+      "source_order": 83,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "caption_type": "figure",
+        "number": "2",
+        "label": "Informal workers sorting and recovering materials from electronic waste in Seelampur, Delhi.",
+        "figure_id": "el_bd973da4_0082",
+        "section_index": 6,
+        "semantic": {
+          "role": "caption",
+          "level": 0,
+          "confidence": 0.98,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "caption",
+      "semantic_confidence": 0.98,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "caption_pairing",
+        "figure_id": "el_bd973da4_0082"
+      }
+    },
+    {
+      "id": "el_bd973da4_0084",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Source: The Quint.",
+      "source_order": 84,
+      "style_name": "Normal",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 6,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.85,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.85,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "default_paragraph_fallback"
+      }
+    },
+    {
+      "id": "el_bd973da4_0085",
+      "type": "heading",
+      "level": 1,
+      "text": "Sustainable Solutions",
+      "source_order": 85,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "break_before": "section",
+        "section_index": 7,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0086",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Closing informal recycling workshops is not the best solution. What is needed is a more progressive plan to increase the number of people in a more secure and formalized recycling system.",
+      "source_order": 86,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 7,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 187
+      }
+    },
+    {
+      "id": "el_bd973da4_0087",
+      "type": "paragraph",
+      "level": 0,
+      "text": "First, the informal workers have to be formalised.The first is the formalisation of informal workers.",
+      "source_order": 87,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 7,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 101
+      }
+    },
+    {
+      "id": "el_bd973da4_0088",
+      "type": "paragraph",
+      "level": 0,
+      "text": "The informal dismantlers should be registered and linked up with existing recyclers. This can help to maintain livelihoods and enhance environmental compliance.",
+      "source_order": 88,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 7,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 160
+      }
+    },
+    {
+      "id": "el_bd973da4_0089",
+      "type": "numbered_list",
+      "level": 0,
+      "text": "Worker safety Workers should receive:",
+      "source_order": 89,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "3",
+        "abstract_num_id": "3",
+        "num_fmt": "decimal",
+        "section_index": 7,
+        "semantic": {
+          "role": "numbered_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "numbered_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_numbered",
+        "num_id": "3"
+      }
+    },
+    {
+      "id": "el_bd973da4_0090",
+      "type": "bullet_list",
+      "level": 1,
+      "text": "Gloves",
+      "source_order": 90,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 1,
+        "num_id": "3",
+        "abstract_num_id": "3",
+        "num_fmt": "bullet",
+        "section_index": 7,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 1,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "3"
+      }
+    },
+    {
+      "id": "el_bd973da4_0091",
+      "type": "bullet_list",
+      "level": 1,
+      "text": "Face coverings/face coverings for the hazard (as needed)",
+      "source_order": 91,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 1,
+        "num_id": "3",
+        "abstract_num_id": "3",
+        "num_fmt": "bullet",
+        "section_index": 7,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 1,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "3"
+      }
+    },
+    {
+      "id": "el_bd973da4_0092",
+      "type": "bullet_list",
+      "level": 1,
+      "text": "Protective eyewear",
+      "source_order": 92,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 1,
+        "num_id": "3",
+        "abstract_num_id": "3",
+        "num_fmt": "bullet",
+        "section_index": 7,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 1,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "3"
+      }
+    },
+    {
+      "id": "el_bd973da4_0093",
+      "type": "bullet_list",
+      "level": 1,
+      "text": "Safety shoes",
+      "source_order": 93,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 1,
+        "num_id": "3",
+        "abstract_num_id": "3",
+        "num_fmt": "bullet",
+        "section_index": 7,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 1,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "3"
+      }
+    },
+    {
+      "id": "el_bd973da4_0094",
+      "type": "bullet_list",
+      "level": 1,
+      "text": "The school will provide training on the safety of using hazardous material.",
+      "source_order": 94,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 1,
+        "num_id": "3",
+        "abstract_num_id": "3",
+        "num_fmt": "bullet",
+        "section_index": 7,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 1,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "3"
+      }
+    },
+    {
+      "id": "el_bd973da4_0095",
+      "type": "bullet_list",
+      "level": 1,
+      "text": "Regular health check-ups",
+      "source_order": 95,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 1,
+        "num_id": "3",
+        "abstract_num_id": "3",
+        "num_fmt": "bullet",
+        "section_index": 7,
+        "semantic": {
+          "role": "bullet_list_item",
+          "level": 1,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "bullet_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_bullet",
+        "num_id": "3"
+      }
+    },
+    {
+      "id": "el_bd973da4_0096",
+      "type": "numbered_list",
+      "level": 0,
+      "text": "Safe dismantling centres",
+      "source_order": 96,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "3",
+        "abstract_num_id": "3",
+        "num_fmt": "decimal",
+        "section_index": 7,
+        "semantic": {
+          "role": "numbered_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "numbered_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_numbered",
+        "num_id": "3"
+      }
+    },
+    {
+      "id": "el_bd973da4_0097",
+      "type": "paragraph",
+      "level": 0,
+      "text": "It is possible to set up decentralised collection/pre-processing centers at the hands of various Government and private organizations where e-waste can be safely segregated before it is moved to the government-authorized e-waste recyclers.",
+      "source_order": 97,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 7,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 239
+      }
+    },
+    {
+      "id": "el_bd973da4_0098",
+      "type": "numbered_list",
+      "level": 0,
+      "text": "Stronger EPR implementation",
+      "source_order": 98,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "3",
+        "abstract_num_id": "3",
+        "num_fmt": "decimal",
+        "section_index": 7,
+        "semantic": {
+          "role": "numbered_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "numbered_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_numbered",
+        "num_id": "3"
+      }
+    },
+    {
+      "id": "el_bd973da4_0099",
+      "type": "paragraph",
+      "level": 0,
+      "text": "There should be a greater role played by producers in supporting the collection systems as opposed to the sole responsibility of the consumers to dispose the products properly. Existing framework of EPR can be strengthened by proper monitoring and enforcement.",
+      "source_order": 99,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 7,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 260
+      }
+    },
+    {
+      "id": "el_bd973da4_0100",
+      "type": "numbered_list",
+      "level": 0,
+      "text": "Consumer awareness",
+      "source_order": 100,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "3",
+        "abstract_num_id": "3",
+        "num_fmt": "decimal",
+        "section_index": 7,
+        "semantic": {
+          "role": "numbered_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "numbered_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_numbered",
+        "num_id": "3"
+      }
+    },
+    {
+      "id": "el_bd973da4_0101",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Consumers ought to be encouraged to:",
+      "source_order": 101,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 7,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.85,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.85,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "default_paragraph_fallback"
+      }
+    },
+    {
+      "id": "el_bd973da4_0102",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Purchase -> Use -> Repair -> Reuse -> Return -> Recycle",
+      "source_order": 102,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 7,
+        "semantic": {
+          "role": "heading",
+          "level": 2,
+          "confidence": 0.88,
+          "method": "llm",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.88,
+      "semantic_method": "llm",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "ambiguity_reason": "short_unstyled_non_punctuated_text",
+        "llm_reasoning": "Short bold non-punctuated line interpreted as subsection heading",
+        "llm_role": "heading"
+      }
+    },
+    {
+      "id": "el_bd973da4_0103",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Instead of disposing electronics in regular trash, put them in a recycling bin.",
+      "source_order": 103,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 7,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.85,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.85,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "default_paragraph_fallback"
+      }
+    },
+    {
+      "id": "el_bd973da4_0104",
+      "type": "numbered_list",
+      "level": 0,
+      "text": "Pollution monitoring",
+      "source_order": 104,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "3",
+        "abstract_num_id": "3",
+        "num_fmt": "decimal",
+        "break_before": "section",
+        "section_index": 8,
+        "semantic": {
+          "role": "numbered_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "numbered_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_numbered",
+        "num_id": "3"
+      }
+    },
+    {
+      "id": "el_bd973da4_0105",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Sampling at informal recycling sites of soil, groundwater and air quality can detect contamination and then measures can be taken to remediate the site.",
+      "source_order": 105,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 8,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 152
+      }
+    },
+    {
+      "id": "el_bd973da4_0106",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Cleaner technology – recovery of resources. The recovery of metals should be changed from crude burning or uncontrolled acid treatment to environmentally controlled recycling technology.",
+      "source_order": 106,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 8,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 186
+      }
+    },
+    {
+      "id": "el_bd973da4_0107",
+      "type": "heading",
+      "level": 1,
+      "text": "Outcome",
+      "source_order": 107,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 8,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0108",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Informal recycling is working to establish a viable recycling collection, dismantling and material recovery system as is illustrated by the Seelampur case. It helps to recover valuable materials that can be discarded.",
+      "source_order": 108,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 8,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 217
+      }
+    },
+    {
+      "id": "el_bd973da4_0109",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Substantial environmental and occupational risks are overlaid, however, on these economic benefits. The presence of heavy metal loads and soil acidification has been documented around crude recycling sites and studies of workers have revealed a lack of awareness and protection measures.",
+      "source_order": 109,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 8,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 287
+      }
+    },
+    {
+      "id": "el_bd973da4_0110",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Although, the governments have done their bit with the E-Waste Management Rules, 2022 and EPR, according to the informal sector, it is not solving the problem.",
+      "source_order": 110,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 8,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 159
+      }
+    },
+    {
+      "id": "el_bd973da4_0111",
+      "type": "figure",
+      "level": 0,
+      "text": null,
+      "source_order": 111,
+      "style_name": "Body Text",
+      "confidence": 0.95,
+      "metadata": {
+        "image_count": 1,
+        "drawing_rids": [
+          "rId19"
+        ],
+        "section_index": 8,
+        "semantic": {
+          "role": "figure",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "figure",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "structural_figure",
+        "image_count": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0112",
+      "type": "heading",
+      "level": 1,
+      "text": "Lessons Learned",
+      "source_order": 112,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 8,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0113",
+      "type": "paragraph",
+      "level": 0,
+      "text": "The lessons to be learnt from the Seelampur case are numerous:",
+      "source_order": 113,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 8,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.85,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.85,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "default_paragraph_fallback"
+      }
+    },
+    {
+      "id": "el_bd973da4_0114",
+      "type": "numbered_list",
+      "level": 0,
+      "text": "Environmental difficulties are frequently related to economic difficulties. Strategies to eliminate informal sectors, however, without alternative livelihoods, may exacerbate social conditions.",
+      "source_order": 114,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "2",
+        "abstract_num_id": "4",
+        "num_fmt": "decimal",
+        "section_index": 8,
+        "semantic": {
+          "role": "numbered_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "numbered_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_numbered",
+        "num_id": "2"
+      }
+    },
+    {
+      "id": "el_bd973da4_0115",
+      "type": "numbered_list",
+      "level": 0,
+      "text": "Recycling is not necessarily \"green\" in and of itself. Pollution can be increased or decreased depending upon the way it is recycled.",
+      "source_order": 115,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "2",
+        "abstract_num_id": "4",
+        "num_fmt": "decimal",
+        "section_index": 8,
+        "semantic": {
+          "role": "numbered_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "numbered_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_numbered",
+        "num_id": "2"
+      }
+    },
+    {
+      "id": "el_bd973da4_0116",
+      "type": "numbered_list",
+      "level": 0,
+      "text": "The informal sector is a part of the environmental policy. The knowledge and their work in material recovery can be integrated into a safer formal system, as can their ongoing role.",
+      "source_order": 116,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "2",
+        "abstract_num_id": "4",
+        "num_fmt": "decimal",
+        "section_index": 8,
+        "semantic": {
+          "role": "numbered_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "numbered_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_numbered",
+        "num_id": "2"
+      }
+    },
+    {
+      "id": "el_bd973da4_0117",
+      "type": "numbered_list",
+      "level": 0,
+      "text": "As noted above, producer responsibility is key. Manufacturers and producers must play a part in the safe disposal of electronic items.",
+      "source_order": 117,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "2",
+        "abstract_num_id": "4",
+        "num_fmt": "decimal",
+        "break_before": "section",
+        "section_index": 9,
+        "semantic": {
+          "role": "numbered_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "numbered_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_numbered",
+        "num_id": "2"
+      }
+    },
+    {
+      "id": "el_bd973da4_0118",
+      "type": "numbered_list",
+      "level": 0,
+      "text": "Consumer behaviour matters. Less e-waste going into the informal recycling chain is due to responsible disposal, repair and extended product life.",
+      "source_order": 118,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "2",
+        "abstract_num_id": "4",
+        "num_fmt": "decimal",
+        "section_index": 9,
+        "semantic": {
+          "role": "numbered_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "numbered_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_numbered",
+        "num_id": "2"
+      }
+    },
+    {
+      "id": "el_bd973da4_0119",
+      "type": "numbered_list",
+      "level": 0,
+      "text": "There is a need for enforcement and infrastructure in environmental management. Laws won't work unless there are accessible alternatives to them provided by workers and consumers.",
+      "source_order": 119,
+      "style_name": "List Paragraph",
+      "confidence": 1.0,
+      "metadata": {
+        "nesting_level": 0,
+        "num_id": "2",
+        "abstract_num_id": "4",
+        "num_fmt": "decimal",
+        "section_index": 9,
+        "semantic": {
+          "role": "numbered_list_item",
+          "level": 0,
+          "confidence": 1.0,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "numbered_list_item",
+      "semantic_confidence": 1.0,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "numPr_numbered",
+        "num_id": "2"
+      }
+    },
+    {
+      "id": "el_bd973da4_0120",
+      "type": "heading",
+      "level": 1,
+      "text": "Our Analysis",
+      "source_order": 120,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 9,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0121",
+      "type": "paragraph",
+      "level": 0,
+      "text": "One should not consider the situation in Seelampur as a pure problem of irresponsible workers and government non-effort in enforcing the law on E-Waste. The problem is a result of the various links in the whole value chain that includes consumers, manufacturers, scrap dealers, informal workers, recyclers and regulators.",
+      "source_order": 121,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 9,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 321
+      }
+    },
+    {
+      "id": "el_bd973da4_0122",
+      "type": "paragraph",
+      "level": 0,
+      "text": "The informal sector exists in part because it is a low cost way of being able to recover valuable materials from discarded electronics. So, eradicating informal recyclers entirely would not take into account the economic reality of thousands of workers. This is the more effective approach, which involves upgrading the existing system, ensuring safe dismantling centers, arming workers with protective devices, training, and access to authorised dismantling facilities, safeguarding their livelihoods.",
+      "source_order": 122,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 9,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 502
+      }
+    },
+    {
+      "id": "el_bd973da4_0123",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Meanwhile, the responsibility needs to be pushed further toward the producers and consumers. Placing collection and recycling easier in the producer's hand by using effective EPR systems and encouraging consumers to use products longer, returning unwanted e-waste via authorised channels.This way, Seelampur can slowly move away from an informal \"recycling junkyard\" to a \"recycling village\" that recovers valuable materials without passing the environmental burden on to people and workers.",
+      "source_order": 123,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 9,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 491
+      }
+    },
+    {
+      "id": "el_bd973da4_0124",
+      "type": "heading",
+      "level": 1,
+      "text": "Conclusion",
+      "source_order": 124,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 9,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0125",
+      "type": "paragraph",
+      "level": 0,
+      "text": "The e-waste issue in Seelampur is a tough one because it is about balancing between protection of the environment and the recovery of resources and livelihood generation. Although employment has been created through informal recycling and some useful materials have been salvaged, their unsafe dismantling, burning, acid treatment, etc. and improper disposal can pollute the soil and the atmosphere, and lead to significant occupational hazards for the people involved in the recycling.",
+      "source_order": 125,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 9,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 486
+      }
+    },
+    {
+      "id": "el_bd973da4_0126",
+      "type": "paragraph",
+      "level": 0,
+      "text": "The E-Waste Management Rules, 2022, and the Extended Producer Responsibility scheme are important regulatory pillars that support the goal of e-waste management. But there cannot be regulation alone which can solve the Seelampur problem. It takes a combination of formalisation of the informal sector, safe recycling processes, efficient collection and recycling measures, producer responsibility and environmental control and public awareness campaigns. An ultimate aim should strive to combining the benefits of resource recovery of informal sector with the abolition of the unsafe practices that compromise human health and the environment.",
+      "source_order": 126,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 9,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 643
+      }
+    },
+    {
+      "id": "el_bd973da4_0127",
+      "type": "heading",
+      "level": 1,
+      "text": "References",
+      "source_order": 127,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "break_before": "section",
+        "section_index": 10,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0128",
+      "type": "reference",
+      "level": 0,
+      "text": "Government of India — E-Waste Management Rules, 2022",
+      "source_order": 128,
+      "style_name": "List Paragraph",
+      "confidence": 0.95,
+      "metadata": {
+        "is_bold": true,
+        "section": "references",
+        "section_index": 10,
+        "semantic": {
+          "role": "reference",
+          "level": 0,
+          "confidence": 0.98,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "reference",
+      "semantic_confidence": 0.98,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "bibliography_section",
+        "section": "references"
+      }
+    },
+    {
+      "id": "el_bd973da4_0129",
+      "type": "reference",
+      "level": 0,
+      "text": "Ministry of Environment, Forest and Climate Change. E-Waste (Management) Rules, 2022, G.S.R. 801(E), 2 November 2022. Official E-Waste Management Rules, 2022 PDF",
+      "source_order": 129,
+      "style_name": "Body Text",
+      "confidence": 0.95,
+      "metadata": {
+        "section": "references",
+        "section_index": 10,
+        "semantic": {
+          "role": "reference",
+          "level": 0,
+          "confidence": 0.98,
+          "method": "rule",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "reference",
+      "semantic_confidence": 0.98,
+      "semantic_method": "rule",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "bibliography_section",
+        "section": "references"
+      }
+    },
+    {
+      "id": "el_bd973da4_0130",
+      "type": "heading",
+      "level": 1,
+      "text": "CPCB — E-Waste Management / EPR",
+      "source_order": 130,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 10,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0131",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Central Pollution Control Board. E-Waste Management System — E-Waste (Management) Rules, 2022.",
+      "source_order": 131,
+      "style_name": "Normal",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 10,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 94
+      }
+    },
+    {
+      "id": "el_bd973da4_0132",
+      "type": "paragraph",
+      "level": 0,
+      "text": "CPCB E-Waste EPR Portal",
+      "source_order": 132,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 10,
+        "semantic": {
+          "role": "heading",
+          "level": 2,
+          "confidence": 0.88,
+          "method": "llm",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.88,
+      "semantic_method": "llm",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "ambiguity_reason": "short_unstyled_non_punctuated_text",
+        "llm_reasoning": "Short bold non-punctuated line interpreted as subsection heading",
+        "llm_role": "heading"
+      }
+    },
+    {
+      "id": "el_bd973da4_0133",
+      "type": "heading",
+      "level": 1,
+      "text": "Delhi Government — E-Waste",
+      "source_order": 133,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 10,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0134",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Department of Environment, Government of NCT of Delhi. E-Waste. Delhi Government E-Waste Information",
+      "source_order": 134,
+      "style_name": "Body Text",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 10,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 100
+      }
+    },
+    {
+      "id": "el_bd973da4_0135",
+      "type": "heading",
+      "level": 1,
+      "text": "Peer-reviewed study — Worker health",
+      "source_order": 135,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 10,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0136",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Arya, S. et al. Knowledge, Attitude and Practice Study of Health Risks Among E-waste Recyclers in Delhi.",
+      "source_order": 136,
+      "style_name": "Normal",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 10,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 104
+      }
+    },
+    {
+      "id": "el_bd973da4_0137",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Journal of Environmental and Public Health, 2021. Peer-reviewed study on e-waste workers in Delhi",
+      "source_order": 137,
+      "style_name": "Normal",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 10,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.85,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.85,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "default_paragraph_fallback"
+      }
+    },
+    {
+      "id": "el_bd973da4_0138",
+      "type": "heading",
+      "level": 1,
+      "text": "Peer-reviewed study — Soil contamination",
+      "source_order": 138,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 10,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0139",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Evaluation of soil contamination due to crude E-waste recycling activities in the capital city of India. Environmental Technology & Innovation, 2021/2022. Research on soil contamination from Delhi e-waste recycling",
+      "source_order": 139,
+      "style_name": "Normal",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 10,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 214
+      }
+    },
+    {
+      "id": "el_bd973da4_0140",
+      "type": "heading",
+      "level": 1,
+      "text": "Toxics Link — Informal recycling in Delhi",
+      "source_order": 140,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 10,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0141",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Toxics Link. Informal E-Waste Recycling in Delhi: Unfolding Impact of Two Years of E-Waste (Management) Rules 2016. 2019. Toxics Link report on informal e-waste recycling in Delhi",
+      "source_order": 141,
+      "style_name": "Normal",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 10,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 179
+      }
+    },
+    {
+      "id": "el_bd973da4_0142",
+      "type": "heading",
+      "level": 1,
+      "text": "Recent Seelampur study",
+      "source_order": 142,
+      "style_name": "Heading 1",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 10,
+        "semantic": {
+          "role": "heading",
+          "level": 1,
+          "confidence": 0.98,
+          "method": "style",
+          "provenance": "EXTRACTED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "heading",
+      "semantic_confidence": 0.98,
+      "semantic_method": "style",
+      "semantic_provenance": "EXTRACTED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "heading_style",
+        "style": "Heading 1",
+        "level": 1
+      }
+    },
+    {
+      "id": "el_bd973da4_0143",
+      "type": "paragraph",
+      "level": 0,
+      "text": "Yadav, M., Gupta, J. & Gupta, P. Exploring the problems faced by informal E-Waste workers in Seelampur, Delhi. Environment Conservation Journal, 2025. 2025 study on Seelampur's informal e-waste workers",
+      "source_order": 143,
+      "style_name": "Normal",
+      "confidence": 1.0,
+      "metadata": {
+        "section_index": 10,
+        "semantic": {
+          "role": "body_paragraph",
+          "level": 0,
+          "confidence": 0.95,
+          "method": "rule",
+          "provenance": "INFERRED",
+          "is_ambiguous": false
+        }
+      },
+      "semantic_role": "body_paragraph",
+      "semantic_confidence": 0.95,
+      "semantic_method": "rule",
+      "semantic_provenance": "INFERRED",
+      "is_ambiguous": false,
+      "semantic_evidence": {
+        "rule": "narrative_body_paragraph",
+        "char_count": 201
+      }
+    }
+  ],
+  "processing_metadata": {
+    "threshold": 0.7,
+    "llm_provider": "MockLLMProvider"
+  }
+}

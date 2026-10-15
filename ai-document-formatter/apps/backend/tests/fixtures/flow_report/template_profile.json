@@ -1,0 +1,4147 @@
+{
+  "template_id": "bd973da4",
+  "file_path": "/Users/kalyansadhukhan/Desktop/Formatto/sample.docx",
+  "document_defaults": {
+    "font_name": "Calibri",
+    "font_size_pt": 11.0,
+    "line_spacing": 1.15,
+    "space_after_pt": 8.0,
+    "provenance": "EXTRACTED",
+    "font_theme": "minorHAnsi"
+  },
+  "sections": [
+    {
+      "section_index": 0,
+      "break_type": "continuous",
+      "page_width_pt": 612.0,
+      "page_height_pt": 792.0,
+      "orientation": "portrait",
+      "page_size_name": "Letter",
+      "margins_pt": {
+        "top": 91.0,
+        "bottom": 14.0,
+        "left": 54.0,
+        "right": 18.0,
+        "header": 36.0,
+        "footer": 36.0
+      },
+      "columns_count": 1,
+      "has_header": false,
+      "has_footer": false,
+      "is_header_linked": false,
+      "is_footer_linked": false,
+      "has_page_number": false,
+      "header_text": null,
+      "footer_text": null,
+      "header_rids": [],
+      "footer_rids": [],
+      "_has_page_num_hdr": false,
+      "_has_page_num_ftr": false
+    },
+    {
+      "section_index": 1,
+      "break_type": "nextPage",
+      "page_width_pt": 612.0,
+      "page_height_pt": 792.0,
+      "orientation": "portrait",
+      "page_size_name": "Letter",
+      "margins_pt": {
+        "top": 47.0,
+        "bottom": 46.0,
+        "left": 54.0,
+        "right": 18.0,
+        "header": 0.0,
+        "footer": 36.9
+      },
+      "columns_count": 1,
+      "has_header": false,
+      "has_footer": true,
+      "is_header_linked": true,
+      "is_footer_linked": false,
+      "has_page_number": true,
+      "header_text": null,
+      "footer_text": "10 10",
+      "header_rids": [],
+      "footer_rids": [
+        "rId8"
+      ],
+      "_has_page_num_hdr": false,
+      "_has_page_num_ftr": true
+    },
+    {
+      "section_index": 2,
+      "break_type": "nextPage",
+      "page_width_pt": 612.0,
+      "page_height_pt": 792.0,
+      "orientation": "portrait",
+      "page_size_name": "Letter",
+      "margins_pt": {
+        "top": 50.0,
+        "bottom": 46.0,
+        "left": 54.0,
+        "right": 18.0,
+        "header": 0.0,
+        "footer": 36.9
+      },
+      "columns_count": 1,
+      "has_header": false,
+      "has_footer": true,
+      "is_header_linked": true,
+      "is_footer_linked": true,
+      "has_page_number": true,
+      "header_text": null,
+      "footer_text": "10 10",
+      "header_rids": [],
+      "footer_rids": [],
+      "_has_page_num_hdr": false,
+      "_has_page_num_ftr": true
+    },
+    {
+      "section_index": 3,
+      "break_type": "nextPage",
+      "page_width_pt": 612.0,
+      "page_height_pt": 792.0,
+      "orientation": "portrait",
+      "page_size_name": "Letter",
+      "margins_pt": {
+        "top": 46.0,
+        "bottom": 46.0,
+        "left": 54.0,
+        "right": 18.0,
+        "header": 0.0,
+        "footer": 36.9
+      },
+      "columns_count": 1,
+      "has_header": false,
+      "has_footer": true,
+      "is_header_linked": true,
+      "is_footer_linked": true,
+      "has_page_number": true,
+      "header_text": null,
+      "footer_text": "10 10",
+      "header_rids": [],
+      "footer_rids": [],
+      "_has_page_num_hdr": false,
+      "_has_page_num_ftr": true
+    },
+    {
+      "section_index": 4,
+      "break_type": "nextPage",
+      "page_width_pt": 612.0,
+      "page_height_pt": 792.0,
+      "orientation": "portrait",
+      "page_size_name": "Letter",
+      "margins_pt": {
+        "top": 79.0,
+        "bottom": 46.0,
+        "left": 54.0,
+        "right": 18.0,
+        "header": 0.0,
+        "footer": 36.9
+      },
+      "columns_count": 1,
+      "has_header": false,
+      "has_footer": true,
+      "is_header_linked": true,
+      "is_footer_linked": true,
+      "has_page_number": true,
+      "header_text": null,
+      "footer_text": "10 10",
+      "header_rids": [],
+      "footer_rids": [],
+      "_has_page_num_hdr": false,
+      "_has_page_num_ftr": true
+    },
+    {
+      "section_index": 5,
+      "break_type": "nextPage",
+      "page_width_pt": 612.0,
+      "page_height_pt": 792.0,
+      "orientation": "portrait",
+      "page_size_name": "Letter",
+      "margins_pt": {
+        "top": 79.0,
+        "bottom": 46.0,
+        "left": 54.0,
+        "right": 18.0,
+        "header": 0.0,
+        "footer": 36.9
+      },
+      "columns_count": 1,
+      "has_header": false,
+      "has_footer": true,
+      "is_header_linked": true,
+      "is_footer_linked": true,
+      "has_page_number": true,
+      "header_text": null,
+      "footer_text": "10 10",
+      "header_rids": [],
+      "footer_rids": [],
+      "_has_page_num_hdr": false,
+      "_has_page_num_ftr": true
+    },
+    {
+      "section_index": 6,
+      "break_type": "nextPage",
+      "page_width_pt": 612.0,
+      "page_height_pt": 792.0,
+      "orientation": "portrait",
+      "page_size_name": "Letter",
+      "margins_pt": {
+        "top": 47.0,
+        "bottom": 46.0,
+        "left": 54.0,
+        "right": 18.0,
+        "header": 0.0,
+        "footer": 36.9
+      },
+      "columns_count": 1,
+      "has_header": false,
+      "has_footer": true,
+      "is_header_linked": true,
+      "is_footer_linked": true,
+      "has_page_number": true,
+      "header_text": null,
+      "footer_text": "10 10",
+      "header_rids": [],
+      "footer_rids": [],
+      "_has_page_num_hdr": false,
+      "_has_page_num_ftr": true
+    },
+    {
+      "section_index": 7,
+      "break_type": "nextPage",
+      "page_width_pt": 612.0,
+      "page_height_pt": 792.0,
+      "orientation": "portrait",
+      "page_size_name": "Letter",
+      "margins_pt": {
+        "top": 47.0,
+        "bottom": 46.0,
+        "left": 54.0,
+        "right": 18.0,
+        "header": 0.0,
+        "footer": 36.9
+      },
+      "columns_count": 1,
+      "has_header": false,
+      "has_footer": true,
+      "is_header_linked": true,
+      "is_footer_linked": true,
+      "has_page_number": true,
+      "header_text": null,
+      "footer_text": "10 10",
+      "header_rids": [],
+      "footer_rids": [],
+      "_has_page_num_hdr": false,
+      "_has_page_num_ftr": true
+    },
+    {
+      "section_index": 8,
+      "break_type": "nextPage",
+      "page_width_pt": 612.0,
+      "page_height_pt": 792.0,
+      "orientation": "portrait",
+      "page_size_name": "Letter",
+      "margins_pt": {
+        "top": 47.0,
+        "bottom": 46.0,
+        "left": 54.0,
+        "right": 18.0,
+        "header": 0.0,
+        "footer": 36.9
+      },
+      "columns_count": 1,
+      "has_header": false,
+      "has_footer": true,
+      "is_header_linked": true,
+      "is_footer_linked": true,
+      "has_page_number": true,
+      "header_text": null,
+      "footer_text": "10 10",
+      "header_rids": [],
+      "footer_rids": [],
+      "_has_page_num_hdr": false,
+      "_has_page_num_ftr": true
+    },
+    {
+      "section_index": 9,
+      "break_type": "nextPage",
+      "page_width_pt": 612.0,
+      "page_height_pt": 792.0,
+      "orientation": "portrait",
+      "page_size_name": "Letter",
+      "margins_pt": {
+        "top": 47.0,
+        "bottom": 46.0,
+        "left": 54.0,
+        "right": 18.0,
+        "header": 0.0,
+        "footer": 36.9
+      },
+      "columns_count": 1,
+      "has_header": false,
+      "has_footer": true,
+      "is_header_linked": true,
+      "is_footer_linked": true,
+      "has_page_number": true,
+      "header_text": null,
+      "footer_text": "10 10",
+      "header_rids": [],
+      "footer_rids": [],
+      "_has_page_num_hdr": false,
+      "_has_page_num_ftr": true
+    },
+    {
+      "section_index": 10,
+      "break_type": "nextPage",
+      "page_width_pt": 612.0,
+      "page_height_pt": 792.0,
+      "orientation": "portrait",
+      "page_size_name": "Letter",
+      "margins_pt": {
+        "top": 63.0,
+        "bottom": 46.0,
+        "left": 54.0,
+        "right": 18.0,
+        "header": 0.0,
+        "footer": 36.9
+      },
+      "columns_count": 1,
+      "has_header": false,
+      "has_footer": true,
+      "is_header_linked": true,
+      "is_footer_linked": true,
+      "has_page_number": true,
+      "header_text": null,
+      "footer_text": "10 10",
+      "header_rids": [],
+      "footer_rids": [],
+      "_has_page_num_hdr": false,
+      "_has_page_num_ftr": true
+    }
+  ],
+  "styles": {
+    "Normal": {
+      "style_id": "Normal",
+      "style_name": "Normal",
+      "style_type": "paragraph",
+      "based_on": null,
+      "next_style": null,
+      "is_custom": false,
+      "direct_properties": {
+        "font_name": "Times New Roman"
+      },
+      "raw_declared_properties": {
+        "font_name": "Times New Roman"
+      },
+      "undetermined_properties": [],
+      "inherited_properties": {
+        "font_size_pt": 11.0,
+        "space_after_pt": 8.0,
+        "line_spacing": 1.15
+      },
+      "property_lineage": {
+        "font_name": [
+          "docDefaults",
+          "Normal"
+        ],
+        "font_size_pt": [
+          "docDefaults"
+        ],
+        "space_after_pt": [
+          "docDefaults"
+        ],
+        "line_spacing": [
+          "docDefaults"
+        ]
+      },
+      "resolved_effective_properties": {
+        "font_name": "Times New Roman",
+        "font_size_pt": 11.0,
+        "space_after_pt": 8.0,
+        "line_spacing": 1.15
+      },
+      "resolved_properties": {
+        "font_name": "Times New Roman",
+        "font_size_pt": 11.0,
+        "space_after_pt": 8.0,
+        "line_spacing": 1.15
+      },
+      "property_provenance": {
+        "font_name": "Normal",
+        "font_size_pt": "docDefaults",
+        "space_after_pt": "docDefaults",
+        "line_spacing": "docDefaults"
+      },
+      "inheritance_chain": [
+        "Normal"
+      ]
+    },
+    "Heading1": {
+      "style_id": "Heading1",
+      "style_name": "heading 1",
+      "style_type": "paragraph",
+      "based_on": "Normal",
+      "next_style": null,
+      "is_custom": false,
+      "direct_properties": {
+        "font_size_pt": 12.0,
+        "bold": true,
+        "outline_level": 1,
+        "hanging_indent_pt": 12.0
+      },
+      "raw_declared_properties": {
+        "font_size_pt": 12.0,
+        "bold": true,
+        "outline_level": 1,
+        "hanging_indent_pt": 12.0
+      },
+      "undetermined_properties": [],
+      "inherited_properties": {
+        "font_name": "Times New Roman",
+        "space_after_pt": 8.0,
+        "line_spacing": 1.15
+      },
+      "property_lineage": {
+        "font_name": [
+          "docDefaults",
+          "Normal"
+        ],
+        "font_size_pt": [
+          "docDefaults",
+          "Heading1"
+        ],
+        "space_after_pt": [
+          "docDefaults"
+        ],
+        "line_spacing": [
+          "docDefaults"
+        ],
+        "bold": [
+          "Heading1"
+        ],
+        "outline_level": [
+          "Heading1"
+        ],
+        "hanging_indent_pt": [
+          "Heading1"
+        ]
+      },
+      "resolved_effective_properties": {
+        "font_name": "Times New Roman",
+        "font_size_pt": 12.0,
+        "space_after_pt": 8.0,
+        "line_spacing": 1.15,
+        "bold": true,
+        "outline_level": 1,
+        "hanging_indent_pt": 12.0
+      },
+      "resolved_properties": {
+        "font_name": "Times New Roman",
+        "font_size_pt": 12.0,
+        "space_after_pt": 8.0,
+        "line_spacing": 1.15,
+        "bold": true,
+        "outline_level": 1,
+        "hanging_indent_pt": 12.0
+      },
+      "property_provenance": {
+        "font_name": "Normal",
+        "font_size_pt": "Heading1",
+        "space_after_pt": "docDefaults",
+        "line_spacing": "docDefaults",
+        "bold": "Heading1",
+        "outline_level": "Heading1",
+        "hanging_indent_pt": "Heading1"
+      },
+      "inheritance_chain": [
+        "Heading1",
+        "Normal"
+      ]
+    },
+    "DefaultParagraphFont": {
+      "style_id": "DefaultParagraphFont",
+      "style_name": "Default Paragraph Font",
+      "style_type": "character",
+      "based_on": null,
+      "next_style": null,
+      "is_custom": false,
+      "direct_properties": {},
+      "raw_declared_properties": {},
+      "undetermined_properties": [],
+      "inherited_properties": {},
+      "property_lineage": {},
+      "resolved_effective_properties": {},
+      "resolved_properties": {},
+      "property_provenance": {},
+      "inheritance_chain": [
+        "DefaultParagraphFont"
+      ]
+    },
+    "TableNormal": {
+      "style_id": "TableNormal",
+      "style_name": "Normal Table",
+      "style_type": "table",
+      "based_on": null,
+      "next_style": null,
+      "is_custom": false,
+      "direct_properties": {},
+      "raw_declared_properties": {},
+      "undetermined_properties": [],
+      "inherited_properties": {},
+      "property_lineage": {},
+      "resolved_effective_properties": {},
+      "resolved_properties": {},
+      "property_provenance": {},
+      "inheritance_chain": [
+        "TableNormal"
+      ]
+    },
+    "NoList": {
+      "style_id": "NoList",
+      "style_name": "No List",
+      "style_type": "numbering",
+      "based_on": null,
+      "next_style": null,
+      "is_custom": false,
+      "direct_properties": {},
+      "raw_declared_properties": {},
+      "undetermined_properties": [],
+      "inherited_properties": {},
+      "property_lineage": {},
+      "resolved_effective_properties": {},
+      "resolved_properties": {},
+      "property_provenance": {},
+      "inheritance_chain": [
+        "NoList"
+      ]
+    },
+    "BodyText": {
+      "style_id": "BodyText",
+      "style_name": "Body Text",
+      "style_type": "paragraph",
+      "based_on": "Normal",
+      "next_style": null,
+      "is_custom": false,
+      "direct_properties": {
+        "font_size_pt": 12.0
+      },
+      "raw_declared_properties": {
+        "font_size_pt": 12.0
+      },
+      "undetermined_properties": [],
+      "inherited_properties": {
+        "font_name": "Times New Roman",
+        "space_after_pt": 8.0,
+        "line_spacing": 1.15
+      },
+      "property_lineage": {
+        "font_name": [
+          "docDefaults",
+          "Normal"
+        ],
+        "font_size_pt": [
+          "docDefaults",
+          "BodyText"
+        ],
+        "space_after_pt": [
+          "docDefaults"
+        ],
+        "line_spacing": [
+          "docDefaults"
+        ]
+      },
+      "resolved_effective_properties": {
+        "font_name": "Times New Roman",
+        "font_size_pt": 12.0,
+        "space_after_pt": 8.0,
+        "line_spacing": 1.15
+      },
+      "resolved_properties": {
+        "font_name": "Times New Roman",
+        "font_size_pt": 12.0,
+        "space_after_pt": 8.0,
+        "line_spacing": 1.15
+      },
+      "property_provenance": {
+        "font_name": "Normal",
+        "font_size_pt": "BodyText",
+        "space_after_pt": "docDefaults",
+        "line_spacing": "docDefaults"
+      },
+      "inheritance_chain": [
+        "BodyText",
+        "Normal"
+      ]
+    },
+    "Title": {
+      "style_id": "Title",
+      "style_name": "Title",
+      "style_type": "paragraph",
+      "based_on": "Normal",
+      "next_style": null,
+      "is_custom": false,
+      "direct_properties": {
+        "font_size_pt": 24.0,
+        "bold": true,
+        "alignment": "center",
+        "space_before_pt": 0.05,
+        "line_spacing_rule": "auto",
+        "right_indent_pt": 53.6,
+        "outline_level": 1
+      },
+      "raw_declared_properties": {
+        "font_size_pt": 24.0,
+        "bold": true,
+        "alignment": "center",
+        "space_before_pt": 0.05,
+        "line_spacing_rule": "auto",
+        "right_indent_pt": 53.6,
+        "outline_level": 1
+      },
+      "undetermined_properties": [],
+      "inherited_properties": {
+        "font_name": "Times New Roman",
+        "space_after_pt": 8.0,
+        "line_spacing": 1.15
+      },
+      "property_lineage": {
+        "font_name": [
+          "docDefaults",
+          "Normal"
+        ],
+        "font_size_pt": [
+          "docDefaults",
+          "Title"
+        ],
+        "space_after_pt": [
+          "docDefaults"
+        ],
+        "line_spacing": [
+          "docDefaults"
+        ],
+        "bold": [
+          "Title"
+        ],
+        "alignment": [
+          "Title"
+        ],
+        "space_before_pt": [
+          "Title"
+        ],
+        "line_spacing_rule": [
+          "Title"
+        ],
+        "right_indent_pt": [
+          "Title"
+        ],
+        "outline_level": [
+          "Title"
+        ]
+      },
+      "resolved_effective_properties": {
+        "font_name": "Times New Roman",
+        "font_size_pt": 24.0,
+        "space_after_pt": 8.0,
+        "line_spacing": 1.15,
+        "bold": true,
+        "alignment": "center",
+        "space_before_pt": 0.05,
+        "line_spacing_rule": "auto",
+        "right_indent_pt": 53.6,
+        "outline_level": 1
+      },
+      "resolved_properties": {
+        "font_name": "Times New Roman",
+        "font_size_pt": 24.0,
+        "space_after_pt": 8.0,
+        "line_spacing": 1.15,
+        "bold": true,
+        "alignment": "center",
+        "space_before_pt": 0.05,
+        "line_spacing_rule": "auto",
+        "right_indent_pt": 53.6,
+        "outline_level": 1
+      },
+      "property_provenance": {
+        "font_name": "Normal",
+        "font_size_pt": "Title",
+        "space_after_pt": "docDefaults",
+        "line_spacing": "docDefaults",
+        "bold": "Title",
+        "alignment": "Title",
+        "space_before_pt": "Title",
+        "line_spacing_rule": "Title",
+        "right_indent_pt": "Title",
+        "outline_level": "Title"
+      },
+      "inheritance_chain": [
+        "Title",
+        "Normal"
+      ]
+    },
+    "ListParagraph": {
+      "style_id": "ListParagraph",
+      "style_name": "List Paragraph",
+      "style_type": "paragraph",
+      "based_on": "Normal",
+      "next_style": null,
+      "is_custom": false,
+      "direct_properties": {
+        "left_indent_pt": 36.0,
+        "hanging_indent_pt": 18.0
+      },
+      "raw_declared_properties": {
+        "left_indent_pt": 36.0,
+        "hanging_indent_pt": 18.0
+      },
+      "undetermined_properties": [],
+      "inherited_properties": {
+        "font_name": "Times New Roman",
+        "font_size_pt": 11.0,
+        "space_after_pt": 8.0,
+        "line_spacing": 1.15
+      },
+      "property_lineage": {
+        "font_name": [
+          "docDefaults",
+          "Normal"
+        ],
+        "font_size_pt": [
+          "docDefaults"
+        ],
+        "space_after_pt": [
+          "docDefaults"
+        ],
+        "line_spacing": [
+          "docDefaults"
+        ],
+        "left_indent_pt": [
+          "ListParagraph"
+        ],
+        "hanging_indent_pt": [
+          "ListParagraph"
+        ]
+      },
+      "resolved_effective_properties": {
+        "font_name": "Times New Roman",
+        "font_size_pt": 11.0,
+        "space_after_pt": 8.0,
+        "line_spacing": 1.15,
+        "left_indent_pt": 36.0,
+        "hanging_indent_pt": 18.0
+      },
+      "resolved_properties": {
+        "font_name": "Times New Roman",
+        "font_size_pt": 11.0,
+        "space_after_pt": 8.0,
+        "line_spacing": 1.15,
+        "left_indent_pt": 36.0,
+        "hanging_indent_pt": 18.0
+      },
+      "property_provenance": {
+        "font_name": "Normal",
+        "font_size_pt": "docDefaults",
+        "space_after_pt": "docDefaults",
+        "line_spacing": "docDefaults",
+        "left_indent_pt": "ListParagraph",
+        "hanging_indent_pt": "ListParagraph"
+      },
+      "inheritance_chain": [
+        "ListParagraph",
+        "Normal"
+      ]
+    },
+    "TableParagraph": {
+      "style_id": "TableParagraph",
+      "style_name": "Table Paragraph",
+      "style_type": "paragraph",
+      "based_on": "Normal",
+      "next_style": null,
+      "is_custom": true,
+      "direct_properties": {
+        "line_spacing_rule": "exact",
+        "line_spacing": 13.65,
+        "left_indent_pt": 0.95
+      },
+      "raw_declared_properties": {
+        "line_spacing_rule": "exact",
+        "line_spacing": 13.65,
+        "left_indent_pt": 0.95
+      },
+      "undetermined_properties": [],
+      "inherited_properties": {
+        "font_name": "Times New Roman",
+        "font_size_pt": 11.0,
+        "space_after_pt": 8.0
+      },
+      "property_lineage": {
+        "font_name": [
+          "docDefaults",
+          "Normal"
+        ],
+        "font_size_pt": [
+          "docDefaults"
+        ],
+        "space_after_pt": [
+          "docDefaults"
+        ],
+        "line_spacing": [
+          "docDefaults",
+          "TableParagraph"
+        ],
+        "line_spacing_rule": [
+          "TableParagraph"
+        ],
+        "left_indent_pt": [
+          "TableParagraph"
+        ]
+      },
+      "resolved_effective_properties": {
+        "font_name": "Times New Roman",
+        "font_size_pt": 11.0,
+        "space_after_pt": 8.0,
+        "line_spacing": 13.65,
+        "line_spacing_rule": "exact",
+        "left_indent_pt": 0.95
+      },
+      "resolved_properties": {
+        "font_name": "Times New Roman",
+        "font_size_pt": 11.0,
+        "space_after_pt": 8.0,
+        "line_spacing": 13.65,
+        "line_spacing_rule": "exact",
+        "left_indent_pt": 0.95
+      },
+      "property_provenance": {
+        "font_name": "Normal",
+        "font_size_pt": "docDefaults",
+        "space_after_pt": "docDefaults",
+        "line_spacing": "TableParagraph",
+        "line_spacing_rule": "TableParagraph",
+        "left_indent_pt": "TableParagraph"
+      },
+      "inheritance_chain": [
+        "TableParagraph",
+        "Normal"
+      ]
+    }
+  },
+  "numbering_schemes": {
+    "1": {
+      "num_id": "1",
+      "abstract_num_id": "0",
+      "levels": {
+        "0": {
+          "level": 0,
+          "num_fmt": "decimal",
+          "lvl_text": "%1.",
+          "start": 1,
+          "left_indent_pt": 12.0,
+          "hanging_indent_pt": 12.0
+        },
+        "1": {
+          "level": 1,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 64.8,
+          "hanging_indent_pt": 12.0
+        },
+        "2": {
+          "level": 2,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 117.6,
+          "hanging_indent_pt": 12.0
+        },
+        "3": {
+          "level": 3,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 170.4,
+          "hanging_indent_pt": 12.0
+        },
+        "4": {
+          "level": 4,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 223.2,
+          "hanging_indent_pt": 12.0
+        },
+        "5": {
+          "level": 5,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 276.0,
+          "hanging_indent_pt": 12.0
+        },
+        "6": {
+          "level": 6,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 328.8,
+          "hanging_indent_pt": 12.0
+        },
+        "7": {
+          "level": 7,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 381.6,
+          "hanging_indent_pt": 12.0
+        },
+        "8": {
+          "level": 8,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 434.4,
+          "hanging_indent_pt": 12.0
+        }
+      }
+    },
+    "2": {
+      "num_id": "2",
+      "abstract_num_id": "4",
+      "levels": {
+        "0": {
+          "level": 0,
+          "num_fmt": "decimal",
+          "lvl_text": "%1.",
+          "start": 1,
+          "left_indent_pt": 36.0,
+          "hanging_indent_pt": 18.0
+        },
+        "1": {
+          "level": 1,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 86.4,
+          "hanging_indent_pt": 18.0
+        },
+        "2": {
+          "level": 2,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 136.8,
+          "hanging_indent_pt": 18.0
+        },
+        "3": {
+          "level": 3,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 187.2,
+          "hanging_indent_pt": 18.0
+        },
+        "4": {
+          "level": 4,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 237.6,
+          "hanging_indent_pt": 18.0
+        },
+        "5": {
+          "level": 5,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 288.0,
+          "hanging_indent_pt": 18.0
+        },
+        "6": {
+          "level": 6,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 338.4,
+          "hanging_indent_pt": 18.0
+        },
+        "7": {
+          "level": 7,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 388.8,
+          "hanging_indent_pt": 18.0
+        },
+        "8": {
+          "level": 8,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 439.2,
+          "hanging_indent_pt": 18.0
+        }
+      }
+    },
+    "3": {
+      "num_id": "3",
+      "abstract_num_id": "3",
+      "levels": {
+        "0": {
+          "level": 0,
+          "num_fmt": "decimal",
+          "lvl_text": "%1.",
+          "start": 2,
+          "left_indent_pt": 0.0,
+          "hanging_indent_pt": 12.0
+        },
+        "1": {
+          "level": 1,
+          "num_fmt": "bullet",
+          "lvl_text": "",
+          "start": 1,
+          "left_indent_pt": 36.0,
+          "hanging_indent_pt": 18.0
+        },
+        "2": {
+          "level": 2,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 92.0,
+          "hanging_indent_pt": 18.0
+        },
+        "3": {
+          "level": 3,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 148.0,
+          "hanging_indent_pt": 18.0
+        },
+        "4": {
+          "level": 4,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 204.0,
+          "hanging_indent_pt": 18.0
+        },
+        "5": {
+          "level": 5,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 260.0,
+          "hanging_indent_pt": 18.0
+        },
+        "6": {
+          "level": 6,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 316.0,
+          "hanging_indent_pt": 18.0
+        },
+        "7": {
+          "level": 7,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 372.0,
+          "hanging_indent_pt": 18.0
+        },
+        "8": {
+          "level": 8,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 428.0,
+          "hanging_indent_pt": 18.0
+        }
+      }
+    },
+    "4": {
+      "num_id": "4",
+      "abstract_num_id": "1",
+      "levels": {
+        "0": {
+          "level": 0,
+          "num_fmt": "bullet",
+          "lvl_text": "",
+          "start": 1,
+          "left_indent_pt": 36.0,
+          "hanging_indent_pt": 18.0
+        },
+        "1": {
+          "level": 1,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 86.4,
+          "hanging_indent_pt": 18.0
+        },
+        "2": {
+          "level": 2,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 136.8,
+          "hanging_indent_pt": 18.0
+        },
+        "3": {
+          "level": 3,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 187.2,
+          "hanging_indent_pt": 18.0
+        },
+        "4": {
+          "level": 4,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 237.6,
+          "hanging_indent_pt": 18.0
+        },
+        "5": {
+          "level": 5,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 288.0,
+          "hanging_indent_pt": 18.0
+        },
+        "6": {
+          "level": 6,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 338.4,
+          "hanging_indent_pt": 18.0
+        },
+        "7": {
+          "level": 7,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 388.8,
+          "hanging_indent_pt": 18.0
+        },
+        "8": {
+          "level": 8,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 439.2,
+          "hanging_indent_pt": 18.0
+        }
+      }
+    },
+    "5": {
+      "num_id": "5",
+      "abstract_num_id": "2",
+      "levels": {
+        "0": {
+          "level": 0,
+          "num_fmt": "decimal",
+          "lvl_text": "%1.",
+          "start": 1,
+          "left_indent_pt": 225.25,
+          "hanging_indent_pt": 12.0
+        },
+        "1": {
+          "level": 1,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 256.5,
+          "hanging_indent_pt": 12.0
+        },
+        "2": {
+          "level": 2,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 288.0,
+          "hanging_indent_pt": 12.0
+        },
+        "3": {
+          "level": 3,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 319.5,
+          "hanging_indent_pt": 12.0
+        },
+        "4": {
+          "level": 4,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 351.0,
+          "hanging_indent_pt": 12.0
+        },
+        "5": {
+          "level": 5,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 382.5,
+          "hanging_indent_pt": 12.0
+        },
+        "6": {
+          "level": 6,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 414.0,
+          "hanging_indent_pt": 12.0
+        },
+        "7": {
+          "level": 7,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 445.5,
+          "hanging_indent_pt": 12.0
+        },
+        "8": {
+          "level": 8,
+          "num_fmt": "bullet",
+          "lvl_text": "•",
+          "start": 1,
+          "left_indent_pt": 477.0,
+          "hanging_indent_pt": 12.0
+        }
+      }
+    }
+  },
+  "table_styles": {
+    "TableNormal": {
+      "style_id": "TableNormal",
+      "style_name": "Normal Table",
+      "has_borders": false,
+      "border_details": {},
+      "cell_margins_pt": {
+        "top": 0.0,
+        "bottom": 0.0,
+        "left": 5.4,
+        "right": 5.4
+      }
+    }
+  },
+  "constraints": [
+    {
+      "id": "tc_sec_0_has_page_number",
+      "category": "header_footer",
+      "target": "section.0",
+      "property": "has_page_number",
+      "expected_value": false,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "field": "PAGE",
+        "present": false,
+        "is_footer_linked": false,
+        "explicit_ftr_rids": []
+      }
+    },
+    {
+      "id": "tc_sec_1_has_page_number",
+      "category": "header_footer",
+      "target": "section.1",
+      "property": "has_page_number",
+      "expected_value": true,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "field": "PAGE",
+        "present": true,
+        "is_footer_linked": false,
+        "explicit_ftr_rids": [
+          "rId8"
+        ]
+      }
+    },
+    {
+      "id": "tc_sec_10_has_page_number",
+      "category": "header_footer",
+      "target": "section.10",
+      "property": "has_page_number",
+      "expected_value": true,
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "field": "PAGE",
+        "present": true,
+        "is_footer_linked": true,
+        "explicit_ftr_rids": []
+      }
+    },
+    {
+      "id": "tc_sec_2_has_page_number",
+      "category": "header_footer",
+      "target": "section.2",
+      "property": "has_page_number",
+      "expected_value": true,
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "field": "PAGE",
+        "present": true,
+        "is_footer_linked": true,
+        "explicit_ftr_rids": []
+      }
+    },
+    {
+      "id": "tc_sec_3_has_page_number",
+      "category": "header_footer",
+      "target": "section.3",
+      "property": "has_page_number",
+      "expected_value": true,
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "field": "PAGE",
+        "present": true,
+        "is_footer_linked": true,
+        "explicit_ftr_rids": []
+      }
+    },
+    {
+      "id": "tc_sec_4_has_page_number",
+      "category": "header_footer",
+      "target": "section.4",
+      "property": "has_page_number",
+      "expected_value": true,
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "field": "PAGE",
+        "present": true,
+        "is_footer_linked": true,
+        "explicit_ftr_rids": []
+      }
+    },
+    {
+      "id": "tc_sec_5_has_page_number",
+      "category": "header_footer",
+      "target": "section.5",
+      "property": "has_page_number",
+      "expected_value": true,
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "field": "PAGE",
+        "present": true,
+        "is_footer_linked": true,
+        "explicit_ftr_rids": []
+      }
+    },
+    {
+      "id": "tc_sec_6_has_page_number",
+      "category": "header_footer",
+      "target": "section.6",
+      "property": "has_page_number",
+      "expected_value": true,
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "field": "PAGE",
+        "present": true,
+        "is_footer_linked": true,
+        "explicit_ftr_rids": []
+      }
+    },
+    {
+      "id": "tc_sec_7_has_page_number",
+      "category": "header_footer",
+      "target": "section.7",
+      "property": "has_page_number",
+      "expected_value": true,
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "field": "PAGE",
+        "present": true,
+        "is_footer_linked": true,
+        "explicit_ftr_rids": []
+      }
+    },
+    {
+      "id": "tc_sec_8_has_page_number",
+      "category": "header_footer",
+      "target": "section.8",
+      "property": "has_page_number",
+      "expected_value": true,
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "field": "PAGE",
+        "present": true,
+        "is_footer_linked": true,
+        "explicit_ftr_rids": []
+      }
+    },
+    {
+      "id": "tc_sec_9_has_page_number",
+      "category": "header_footer",
+      "target": "section.9",
+      "property": "has_page_number",
+      "expected_value": true,
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "field": "PAGE",
+        "present": true,
+        "is_footer_linked": true,
+        "explicit_ftr_rids": []
+      }
+    },
+    {
+      "id": "tc_unsupported_00_floating_anchored_drawing",
+      "category": "object",
+      "target": "unsupported.floating_anchored_drawing",
+      "property": "rendered_fidelity",
+      "expected_value": "UNSUPPORTED",
+      "provenance": "UNSUPPORTED",
+      "confidence": 0.0,
+      "enforceable": false,
+      "evidence": {
+        "feature": "floating_anchored_drawing",
+        "count": 2,
+        "description": "Floating drawings with absolute page coordinates are unsupported in flow layout."
+      }
+    },
+    {
+      "id": "tc_unsupported_01_legacy_vml_shape",
+      "category": "object",
+      "target": "unsupported.legacy_vml_shape",
+      "property": "rendered_fidelity",
+      "expected_value": "UNSUPPORTED",
+      "provenance": "UNSUPPORTED",
+      "confidence": 0.0,
+      "enforceable": false,
+      "evidence": {
+        "feature": "legacy_vml_shape",
+        "count": 7,
+        "description": "Legacy VML vector shapes are deprecated in ISO/IEC 29500 and unsupported."
+      }
+    },
+    {
+      "id": "tc_unsupported_02_theme_dependent_fonts",
+      "category": "object",
+      "target": "unsupported.theme_dependent_fonts",
+      "property": "rendered_fidelity",
+      "expected_value": "UNSUPPORTED",
+      "provenance": "UNSUPPORTED",
+      "confidence": 0.0,
+      "enforceable": false,
+      "evidence": {
+        "feature": "theme_dependent_fonts",
+        "count": 1,
+        "description": "Fonts referencing theme slots (e.g. minorHAnsi) without static font name."
+      }
+    },
+    {
+      "id": "tc_sec_0_margin_bottom",
+      "category": "page",
+      "target": "section.0",
+      "property": "margin_bottom_pt",
+      "expected_value": 14.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "bottom",
+        "pt": 14.0
+      }
+    },
+    {
+      "id": "tc_sec_0_margin_left",
+      "category": "page",
+      "target": "section.0",
+      "property": "margin_left_pt",
+      "expected_value": 54.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "left",
+        "pt": 54.0
+      }
+    },
+    {
+      "id": "tc_sec_0_margin_right",
+      "category": "page",
+      "target": "section.0",
+      "property": "margin_right_pt",
+      "expected_value": 18.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "right",
+        "pt": 18.0
+      }
+    },
+    {
+      "id": "tc_sec_0_margin_top",
+      "category": "page",
+      "target": "section.0",
+      "property": "margin_top_pt",
+      "expected_value": 91.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "top",
+        "pt": 91.0
+      }
+    },
+    {
+      "id": "tc_sec_0_orientation",
+      "category": "page",
+      "target": "section.0",
+      "property": "orientation",
+      "expected_value": "portrait",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "w:orient": "portrait"
+      }
+    },
+    {
+      "id": "tc_sec_0_page_size",
+      "category": "page",
+      "target": "section.0",
+      "property": "page_size_name",
+      "expected_value": "Letter",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "width_pt": 612.0,
+        "height_pt": 792.0
+      }
+    },
+    {
+      "id": "tc_sec_1_margin_bottom",
+      "category": "page",
+      "target": "section.1",
+      "property": "margin_bottom_pt",
+      "expected_value": 46.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "bottom",
+        "pt": 46.0
+      }
+    },
+    {
+      "id": "tc_sec_1_margin_left",
+      "category": "page",
+      "target": "section.1",
+      "property": "margin_left_pt",
+      "expected_value": 54.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "left",
+        "pt": 54.0
+      }
+    },
+    {
+      "id": "tc_sec_1_margin_right",
+      "category": "page",
+      "target": "section.1",
+      "property": "margin_right_pt",
+      "expected_value": 18.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "right",
+        "pt": 18.0
+      }
+    },
+    {
+      "id": "tc_sec_1_margin_top",
+      "category": "page",
+      "target": "section.1",
+      "property": "margin_top_pt",
+      "expected_value": 47.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "top",
+        "pt": 47.0
+      }
+    },
+    {
+      "id": "tc_sec_1_orientation",
+      "category": "page",
+      "target": "section.1",
+      "property": "orientation",
+      "expected_value": "portrait",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "w:orient": "portrait"
+      }
+    },
+    {
+      "id": "tc_sec_1_page_size",
+      "category": "page",
+      "target": "section.1",
+      "property": "page_size_name",
+      "expected_value": "Letter",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "width_pt": 612.0,
+        "height_pt": 792.0
+      }
+    },
+    {
+      "id": "tc_sec_10_margin_bottom",
+      "category": "page",
+      "target": "section.10",
+      "property": "margin_bottom_pt",
+      "expected_value": 46.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "bottom",
+        "pt": 46.0
+      }
+    },
+    {
+      "id": "tc_sec_10_margin_left",
+      "category": "page",
+      "target": "section.10",
+      "property": "margin_left_pt",
+      "expected_value": 54.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "left",
+        "pt": 54.0
+      }
+    },
+    {
+      "id": "tc_sec_10_margin_right",
+      "category": "page",
+      "target": "section.10",
+      "property": "margin_right_pt",
+      "expected_value": 18.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "right",
+        "pt": 18.0
+      }
+    },
+    {
+      "id": "tc_sec_10_margin_top",
+      "category": "page",
+      "target": "section.10",
+      "property": "margin_top_pt",
+      "expected_value": 63.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "top",
+        "pt": 63.0
+      }
+    },
+    {
+      "id": "tc_sec_10_orientation",
+      "category": "page",
+      "target": "section.10",
+      "property": "orientation",
+      "expected_value": "portrait",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "w:orient": "portrait"
+      }
+    },
+    {
+      "id": "tc_sec_10_page_size",
+      "category": "page",
+      "target": "section.10",
+      "property": "page_size_name",
+      "expected_value": "Letter",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "width_pt": 612.0,
+        "height_pt": 792.0
+      }
+    },
+    {
+      "id": "tc_sec_2_margin_bottom",
+      "category": "page",
+      "target": "section.2",
+      "property": "margin_bottom_pt",
+      "expected_value": 46.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "bottom",
+        "pt": 46.0
+      }
+    },
+    {
+      "id": "tc_sec_2_margin_left",
+      "category": "page",
+      "target": "section.2",
+      "property": "margin_left_pt",
+      "expected_value": 54.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "left",
+        "pt": 54.0
+      }
+    },
+    {
+      "id": "tc_sec_2_margin_right",
+      "category": "page",
+      "target": "section.2",
+      "property": "margin_right_pt",
+      "expected_value": 18.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "right",
+        "pt": 18.0
+      }
+    },
+    {
+      "id": "tc_sec_2_margin_top",
+      "category": "page",
+      "target": "section.2",
+      "property": "margin_top_pt",
+      "expected_value": 50.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "top",
+        "pt": 50.0
+      }
+    },
+    {
+      "id": "tc_sec_2_orientation",
+      "category": "page",
+      "target": "section.2",
+      "property": "orientation",
+      "expected_value": "portrait",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "w:orient": "portrait"
+      }
+    },
+    {
+      "id": "tc_sec_2_page_size",
+      "category": "page",
+      "target": "section.2",
+      "property": "page_size_name",
+      "expected_value": "Letter",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "width_pt": 612.0,
+        "height_pt": 792.0
+      }
+    },
+    {
+      "id": "tc_sec_3_margin_bottom",
+      "category": "page",
+      "target": "section.3",
+      "property": "margin_bottom_pt",
+      "expected_value": 46.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "bottom",
+        "pt": 46.0
+      }
+    },
+    {
+      "id": "tc_sec_3_margin_left",
+      "category": "page",
+      "target": "section.3",
+      "property": "margin_left_pt",
+      "expected_value": 54.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "left",
+        "pt": 54.0
+      }
+    },
+    {
+      "id": "tc_sec_3_margin_right",
+      "category": "page",
+      "target": "section.3",
+      "property": "margin_right_pt",
+      "expected_value": 18.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "right",
+        "pt": 18.0
+      }
+    },
+    {
+      "id": "tc_sec_3_margin_top",
+      "category": "page",
+      "target": "section.3",
+      "property": "margin_top_pt",
+      "expected_value": 46.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "top",
+        "pt": 46.0
+      }
+    },
+    {
+      "id": "tc_sec_3_orientation",
+      "category": "page",
+      "target": "section.3",
+      "property": "orientation",
+      "expected_value": "portrait",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "w:orient": "portrait"
+      }
+    },
+    {
+      "id": "tc_sec_3_page_size",
+      "category": "page",
+      "target": "section.3",
+      "property": "page_size_name",
+      "expected_value": "Letter",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "width_pt": 612.0,
+        "height_pt": 792.0
+      }
+    },
+    {
+      "id": "tc_sec_4_margin_bottom",
+      "category": "page",
+      "target": "section.4",
+      "property": "margin_bottom_pt",
+      "expected_value": 46.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "bottom",
+        "pt": 46.0
+      }
+    },
+    {
+      "id": "tc_sec_4_margin_left",
+      "category": "page",
+      "target": "section.4",
+      "property": "margin_left_pt",
+      "expected_value": 54.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "left",
+        "pt": 54.0
+      }
+    },
+    {
+      "id": "tc_sec_4_margin_right",
+      "category": "page",
+      "target": "section.4",
+      "property": "margin_right_pt",
+      "expected_value": 18.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "right",
+        "pt": 18.0
+      }
+    },
+    {
+      "id": "tc_sec_4_margin_top",
+      "category": "page",
+      "target": "section.4",
+      "property": "margin_top_pt",
+      "expected_value": 79.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "top",
+        "pt": 79.0
+      }
+    },
+    {
+      "id": "tc_sec_4_orientation",
+      "category": "page",
+      "target": "section.4",
+      "property": "orientation",
+      "expected_value": "portrait",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "w:orient": "portrait"
+      }
+    },
+    {
+      "id": "tc_sec_4_page_size",
+      "category": "page",
+      "target": "section.4",
+      "property": "page_size_name",
+      "expected_value": "Letter",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "width_pt": 612.0,
+        "height_pt": 792.0
+      }
+    },
+    {
+      "id": "tc_sec_5_margin_bottom",
+      "category": "page",
+      "target": "section.5",
+      "property": "margin_bottom_pt",
+      "expected_value": 46.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "bottom",
+        "pt": 46.0
+      }
+    },
+    {
+      "id": "tc_sec_5_margin_left",
+      "category": "page",
+      "target": "section.5",
+      "property": "margin_left_pt",
+      "expected_value": 54.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "left",
+        "pt": 54.0
+      }
+    },
+    {
+      "id": "tc_sec_5_margin_right",
+      "category": "page",
+      "target": "section.5",
+      "property": "margin_right_pt",
+      "expected_value": 18.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "right",
+        "pt": 18.0
+      }
+    },
+    {
+      "id": "tc_sec_5_margin_top",
+      "category": "page",
+      "target": "section.5",
+      "property": "margin_top_pt",
+      "expected_value": 79.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "top",
+        "pt": 79.0
+      }
+    },
+    {
+      "id": "tc_sec_5_orientation",
+      "category": "page",
+      "target": "section.5",
+      "property": "orientation",
+      "expected_value": "portrait",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "w:orient": "portrait"
+      }
+    },
+    {
+      "id": "tc_sec_5_page_size",
+      "category": "page",
+      "target": "section.5",
+      "property": "page_size_name",
+      "expected_value": "Letter",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "width_pt": 612.0,
+        "height_pt": 792.0
+      }
+    },
+    {
+      "id": "tc_sec_6_margin_bottom",
+      "category": "page",
+      "target": "section.6",
+      "property": "margin_bottom_pt",
+      "expected_value": 46.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "bottom",
+        "pt": 46.0
+      }
+    },
+    {
+      "id": "tc_sec_6_margin_left",
+      "category": "page",
+      "target": "section.6",
+      "property": "margin_left_pt",
+      "expected_value": 54.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "left",
+        "pt": 54.0
+      }
+    },
+    {
+      "id": "tc_sec_6_margin_right",
+      "category": "page",
+      "target": "section.6",
+      "property": "margin_right_pt",
+      "expected_value": 18.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "right",
+        "pt": 18.0
+      }
+    },
+    {
+      "id": "tc_sec_6_margin_top",
+      "category": "page",
+      "target": "section.6",
+      "property": "margin_top_pt",
+      "expected_value": 47.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "top",
+        "pt": 47.0
+      }
+    },
+    {
+      "id": "tc_sec_6_orientation",
+      "category": "page",
+      "target": "section.6",
+      "property": "orientation",
+      "expected_value": "portrait",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "w:orient": "portrait"
+      }
+    },
+    {
+      "id": "tc_sec_6_page_size",
+      "category": "page",
+      "target": "section.6",
+      "property": "page_size_name",
+      "expected_value": "Letter",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "width_pt": 612.0,
+        "height_pt": 792.0
+      }
+    },
+    {
+      "id": "tc_sec_7_margin_bottom",
+      "category": "page",
+      "target": "section.7",
+      "property": "margin_bottom_pt",
+      "expected_value": 46.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "bottom",
+        "pt": 46.0
+      }
+    },
+    {
+      "id": "tc_sec_7_margin_left",
+      "category": "page",
+      "target": "section.7",
+      "property": "margin_left_pt",
+      "expected_value": 54.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "left",
+        "pt": 54.0
+      }
+    },
+    {
+      "id": "tc_sec_7_margin_right",
+      "category": "page",
+      "target": "section.7",
+      "property": "margin_right_pt",
+      "expected_value": 18.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "right",
+        "pt": 18.0
+      }
+    },
+    {
+      "id": "tc_sec_7_margin_top",
+      "category": "page",
+      "target": "section.7",
+      "property": "margin_top_pt",
+      "expected_value": 47.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "top",
+        "pt": 47.0
+      }
+    },
+    {
+      "id": "tc_sec_7_orientation",
+      "category": "page",
+      "target": "section.7",
+      "property": "orientation",
+      "expected_value": "portrait",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "w:orient": "portrait"
+      }
+    },
+    {
+      "id": "tc_sec_7_page_size",
+      "category": "page",
+      "target": "section.7",
+      "property": "page_size_name",
+      "expected_value": "Letter",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "width_pt": 612.0,
+        "height_pt": 792.0
+      }
+    },
+    {
+      "id": "tc_sec_8_margin_bottom",
+      "category": "page",
+      "target": "section.8",
+      "property": "margin_bottom_pt",
+      "expected_value": 46.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "bottom",
+        "pt": 46.0
+      }
+    },
+    {
+      "id": "tc_sec_8_margin_left",
+      "category": "page",
+      "target": "section.8",
+      "property": "margin_left_pt",
+      "expected_value": 54.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "left",
+        "pt": 54.0
+      }
+    },
+    {
+      "id": "tc_sec_8_margin_right",
+      "category": "page",
+      "target": "section.8",
+      "property": "margin_right_pt",
+      "expected_value": 18.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "right",
+        "pt": 18.0
+      }
+    },
+    {
+      "id": "tc_sec_8_margin_top",
+      "category": "page",
+      "target": "section.8",
+      "property": "margin_top_pt",
+      "expected_value": 47.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "top",
+        "pt": 47.0
+      }
+    },
+    {
+      "id": "tc_sec_8_orientation",
+      "category": "page",
+      "target": "section.8",
+      "property": "orientation",
+      "expected_value": "portrait",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "w:orient": "portrait"
+      }
+    },
+    {
+      "id": "tc_sec_8_page_size",
+      "category": "page",
+      "target": "section.8",
+      "property": "page_size_name",
+      "expected_value": "Letter",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "width_pt": 612.0,
+        "height_pt": 792.0
+      }
+    },
+    {
+      "id": "tc_sec_9_margin_bottom",
+      "category": "page",
+      "target": "section.9",
+      "property": "margin_bottom_pt",
+      "expected_value": 46.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "bottom",
+        "pt": 46.0
+      }
+    },
+    {
+      "id": "tc_sec_9_margin_left",
+      "category": "page",
+      "target": "section.9",
+      "property": "margin_left_pt",
+      "expected_value": 54.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "left",
+        "pt": 54.0
+      }
+    },
+    {
+      "id": "tc_sec_9_margin_right",
+      "category": "page",
+      "target": "section.9",
+      "property": "margin_right_pt",
+      "expected_value": 18.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "right",
+        "pt": 18.0
+      }
+    },
+    {
+      "id": "tc_sec_9_margin_top",
+      "category": "page",
+      "target": "section.9",
+      "property": "margin_top_pt",
+      "expected_value": 47.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "side": "top",
+        "pt": 47.0
+      }
+    },
+    {
+      "id": "tc_sec_9_orientation",
+      "category": "page",
+      "target": "section.9",
+      "property": "orientation",
+      "expected_value": "portrait",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "w:orient": "portrait"
+      }
+    },
+    {
+      "id": "tc_sec_9_page_size",
+      "category": "page",
+      "target": "section.9",
+      "property": "page_size_name",
+      "expected_value": "Letter",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "width_pt": 612.0,
+        "height_pt": 792.0
+      }
+    },
+    {
+      "id": "tc_doc_default_line_spacing",
+      "category": "paragraph",
+      "target": "document.defaults",
+      "property": "line_spacing",
+      "expected_value": 1.15,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "default_type": "w:pPrDefault",
+        "provenance": "EXTRACTED"
+      }
+    },
+    {
+      "id": "tc_doc_default_space_after_pt",
+      "category": "paragraph",
+      "target": "document.defaults",
+      "property": "space_after_pt",
+      "expected_value": 8.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "default_type": "w:pPrDefault",
+        "provenance": "EXTRACTED"
+      }
+    },
+    {
+      "id": "tc_BodyText_line_spacing",
+      "category": "paragraph",
+      "target": "style.BodyText",
+      "property": "line_spacing",
+      "expected_value": 1.15,
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "direct": false,
+        "lineage": [
+          "docDefaults"
+        ]
+      }
+    },
+    {
+      "id": "tc_BodyText_space_after_pt",
+      "category": "paragraph",
+      "target": "style.BodyText",
+      "property": "space_after_pt",
+      "expected_value": 8.0,
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "direct": false,
+        "lineage": [
+          "docDefaults"
+        ]
+      }
+    },
+    {
+      "id": "tc_Heading1_line_spacing",
+      "category": "paragraph",
+      "target": "style.Heading1",
+      "property": "line_spacing",
+      "expected_value": 1.15,
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "direct": false,
+        "lineage": [
+          "docDefaults"
+        ]
+      }
+    },
+    {
+      "id": "tc_Heading1_space_after_pt",
+      "category": "paragraph",
+      "target": "style.Heading1",
+      "property": "space_after_pt",
+      "expected_value": 8.0,
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "direct": false,
+        "lineage": [
+          "docDefaults"
+        ]
+      }
+    },
+    {
+      "id": "tc_ListParagraph_line_spacing",
+      "category": "paragraph",
+      "target": "style.ListParagraph",
+      "property": "line_spacing",
+      "expected_value": 1.15,
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "direct": false,
+        "lineage": [
+          "docDefaults"
+        ]
+      }
+    },
+    {
+      "id": "tc_ListParagraph_space_after_pt",
+      "category": "paragraph",
+      "target": "style.ListParagraph",
+      "property": "space_after_pt",
+      "expected_value": 8.0,
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "direct": false,
+        "lineage": [
+          "docDefaults"
+        ]
+      }
+    },
+    {
+      "id": "tc_Normal_line_spacing",
+      "category": "paragraph",
+      "target": "style.Normal",
+      "property": "line_spacing",
+      "expected_value": 1.15,
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "direct": false,
+        "lineage": [
+          "docDefaults"
+        ]
+      }
+    },
+    {
+      "id": "tc_Normal_space_after_pt",
+      "category": "paragraph",
+      "target": "style.Normal",
+      "property": "space_after_pt",
+      "expected_value": 8.0,
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "direct": false,
+        "lineage": [
+          "docDefaults"
+        ]
+      }
+    },
+    {
+      "id": "tc_Title_alignment",
+      "category": "paragraph",
+      "target": "style.Title",
+      "property": "alignment",
+      "expected_value": "center",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "direct": true,
+        "lineage": [
+          "Title"
+        ]
+      }
+    },
+    {
+      "id": "tc_Title_line_spacing",
+      "category": "paragraph",
+      "target": "style.Title",
+      "property": "line_spacing",
+      "expected_value": 1.15,
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "direct": false,
+        "lineage": [
+          "docDefaults"
+        ]
+      }
+    },
+    {
+      "id": "tc_Title_space_after_pt",
+      "category": "paragraph",
+      "target": "style.Title",
+      "property": "space_after_pt",
+      "expected_value": 8.0,
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "direct": false,
+        "lineage": [
+          "docDefaults"
+        ]
+      }
+    },
+    {
+      "id": "tc_Heading1_outline_level",
+      "category": "structure",
+      "target": "style.Heading1",
+      "property": "outline_level",
+      "expected_value": 1,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "direct": true,
+        "outline_level": 1,
+        "lineage": [
+          "Heading1"
+        ]
+      }
+    },
+    {
+      "id": "tc_Title_outline_level",
+      "category": "structure",
+      "target": "style.Title",
+      "property": "outline_level",
+      "expected_value": 1,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "direct": true,
+        "outline_level": 1,
+        "lineage": [
+          "Title"
+        ]
+      }
+    },
+    {
+      "id": "tc_doc_default_font_name",
+      "category": "typography",
+      "target": "document.defaults",
+      "property": "font_name",
+      "expected_value": "Calibri",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "default_type": "w:rPrDefault",
+        "provenance": "EXTRACTED"
+      }
+    },
+    {
+      "id": "tc_doc_default_font_size_pt",
+      "category": "typography",
+      "target": "document.defaults",
+      "property": "font_size_pt",
+      "expected_value": 11.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "default_type": "w:rPrDefault",
+        "provenance": "EXTRACTED"
+      }
+    },
+    {
+      "id": "tc_BodyText_font_name",
+      "category": "typography",
+      "target": "style.BodyText",
+      "property": "font_name",
+      "expected_value": "Times New Roman",
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "direct": false,
+        "lineage": [
+          "docDefaults",
+          "Normal"
+        ]
+      }
+    },
+    {
+      "id": "tc_BodyText_font_size_pt",
+      "category": "typography",
+      "target": "style.BodyText",
+      "property": "font_size_pt",
+      "expected_value": 12.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "direct": true,
+        "lineage": [
+          "docDefaults",
+          "BodyText"
+        ]
+      }
+    },
+    {
+      "id": "tc_Heading1_bold",
+      "category": "typography",
+      "target": "style.Heading1",
+      "property": "bold",
+      "expected_value": true,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "direct": true,
+        "lineage": [
+          "Heading1"
+        ]
+      }
+    },
+    {
+      "id": "tc_Heading1_font_name",
+      "category": "typography",
+      "target": "style.Heading1",
+      "property": "font_name",
+      "expected_value": "Times New Roman",
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "direct": false,
+        "lineage": [
+          "docDefaults",
+          "Normal"
+        ]
+      }
+    },
+    {
+      "id": "tc_Heading1_font_size_pt",
+      "category": "typography",
+      "target": "style.Heading1",
+      "property": "font_size_pt",
+      "expected_value": 12.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "direct": true,
+        "lineage": [
+          "docDefaults",
+          "Heading1"
+        ]
+      }
+    },
+    {
+      "id": "tc_ListParagraph_font_name",
+      "category": "typography",
+      "target": "style.ListParagraph",
+      "property": "font_name",
+      "expected_value": "Times New Roman",
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "direct": false,
+        "lineage": [
+          "docDefaults",
+          "Normal"
+        ]
+      }
+    },
+    {
+      "id": "tc_ListParagraph_font_size_pt",
+      "category": "typography",
+      "target": "style.ListParagraph",
+      "property": "font_size_pt",
+      "expected_value": 11.0,
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "direct": false,
+        "lineage": [
+          "docDefaults"
+        ]
+      }
+    },
+    {
+      "id": "tc_Normal_font_name",
+      "category": "typography",
+      "target": "style.Normal",
+      "property": "font_name",
+      "expected_value": "Times New Roman",
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "direct": true,
+        "lineage": [
+          "docDefaults",
+          "Normal"
+        ]
+      }
+    },
+    {
+      "id": "tc_Normal_font_size_pt",
+      "category": "typography",
+      "target": "style.Normal",
+      "property": "font_size_pt",
+      "expected_value": 11.0,
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "direct": false,
+        "lineage": [
+          "docDefaults"
+        ]
+      }
+    },
+    {
+      "id": "tc_Title_bold",
+      "category": "typography",
+      "target": "style.Title",
+      "property": "bold",
+      "expected_value": true,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "direct": true,
+        "lineage": [
+          "Title"
+        ]
+      }
+    },
+    {
+      "id": "tc_Title_font_name",
+      "category": "typography",
+      "target": "style.Title",
+      "property": "font_name",
+      "expected_value": "Times New Roman",
+      "provenance": "INFERRED",
+      "confidence": 0.85,
+      "enforceable": false,
+      "evidence": {
+        "direct": false,
+        "lineage": [
+          "docDefaults",
+          "Normal"
+        ]
+      }
+    },
+    {
+      "id": "tc_Title_font_size_pt",
+      "category": "typography",
+      "target": "style.Title",
+      "property": "font_size_pt",
+      "expected_value": 24.0,
+      "provenance": "EXTRACTED",
+      "confidence": 1.0,
+      "enforceable": true,
+      "evidence": {
+        "direct": true,
+        "lineage": [
+          "docDefaults",
+          "Title"
+        ]
+      }
+    }
+  ],
+  "unsupported_features": [
+    {
+      "feature": "floating_anchored_drawing",
+      "count": 2,
+      "description": "Floating drawings with absolute page coordinates are unsupported in flow layout."
+    },
+    {
+      "feature": "legacy_vml_shape",
+      "count": 7,
+      "description": "Legacy VML vector shapes are deprecated in ISO/IEC 29500 and unsupported."
+    },
+    {
+      "feature": "theme_dependent_fonts",
+      "count": 1,
+      "description": "Fonts referencing theme slots (e.g. minorHAnsi) without static font name."
+    }
+  ],
+  "direct_formatting_overrides": [
+    {
+      "paragraph_index": 1,
+      "style_id": "Normal",
+      "paragraph_overrides": {
+        "left_indent_pt": 85.15
+      },
+      "run_overrides": {
+        "font_size_pt": 10.0
+      },
+      "text_snippet": null
+    },
+    {
+      "paragraph_index": 2,
+      "style_id": "Normal",
+      "paragraph_overrides": {
+        "alignment": "center"
+      },
+      "run_overrides": {
+        "bold": true,
+        "font_size_pt": 20.0,
+        "color": "000009"
+      },
+      "text_snippet": "Alliance School of Advanced Computing"
+    },
+    {
+      "paragraph_index": 3,
+      "style_id": "Normal",
+      "paragraph_overrides": {
+        "alignment": "center"
+      },
+      "run_overrides": {
+        "bold": true,
+        "font_size_pt": 20.0,
+        "color": "000009"
+      },
+      "text_snippet": "Bengaluru"
+    },
+    {
+      "paragraph_index": 5,
+      "style_id": "Normal",
+      "paragraph_overrides": {
+        "alignment": "center",
+        "left_indent_pt": 67.5
+      },
+      "run_overrides": {
+        "bold": true,
+        "font_size_pt": 16.0
+      },
+      "text_snippet": "ENVIRONMENTAL SCIENCE MODULE I: CASE STUDY REPORT"
+    },
+    {
+      "paragraph_index": 6,
+      "style_id": "Normal",
+      "paragraph_overrides": {
+        "alignment": "center"
+      },
+      "run_overrides": {
+        "bold": true,
+        "font_size_pt": 16.0
+      },
+      "text_snippet": "E-Waste Crisis in Seelampur, Delhi"
+    },
+    {
+      "paragraph_index": 11,
+      "style_id": "Normal",
+      "paragraph_overrides": {
+        "alignment": "center"
+      },
+      "run_overrides": {
+        "bold": true,
+        "font_size_pt": 14.0
+      },
+      "text_snippet": "“Environmental and Social Impacts of Informal Elec"
+    },
+    {
+      "paragraph_index": 27,
+      "style_id": "Normal",
+      "paragraph_overrides": {
+        "alignment": "right"
+      },
+      "run_overrides": {},
+      "text_snippet": "1"
+    },
+    {
+      "paragraph_index": 28,
+      "style_id": "Normal",
+      "paragraph_overrides": {
+        "alignment": "right"
+      },
+      "run_overrides": {},
+      "text_snippet": null
+    },
+    {
+      "paragraph_index": 29,
+      "style_id": "Heading1",
+      "paragraph_overrides": {
+        "alignment": "left"
+      },
+      "run_overrides": {},
+      "text_snippet": "Introduction"
+    },
+    {
+      "paragraph_index": 31,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Electronic waste (E-Waste): Discarded electrical a"
+    },
+    {
+      "paragraph_index": 33,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "The amount of e-waste produced is also increasing"
+    },
+    {
+      "paragraph_index": 35,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Delhi is an important centre in India’s e-waste ec"
+    },
+    {
+      "paragraph_index": 38,
+      "style_id": "Heading1",
+      "paragraph_overrides": {
+        "alignment": "left",
+        "left_indent_pt": 207.05
+      },
+      "run_overrides": {},
+      "text_snippet": "Location & Context"
+    },
+    {
+      "paragraph_index": 40,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Seelampur comes under Shahdara region of North-Eas"
+    },
+    {
+      "paragraph_index": 42,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Delhi's informal e-waste processing areas have bee"
+    },
+    {
+      "paragraph_index": 44,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "One of the key characteristics of Seelampur is was"
+    },
+    {
+      "paragraph_index": 46,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "The field reports in recent past also show that Ol"
+    },
+    {
+      "paragraph_index": 47,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": null
+    },
+    {
+      "paragraph_index": 48,
+      "style_id": "Normal",
+      "paragraph_overrides": {
+        "left_indent_pt": 17.1
+      },
+      "run_overrides": {
+        "font_size_pt": 10.0
+      },
+      "text_snippet": null
+    },
+    {
+      "paragraph_index": 49,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "center"
+      },
+      "run_overrides": {
+        "bold": true
+      },
+      "text_snippet": "Figure 1: Major informal e-waste processing hotspo"
+    },
+    {
+      "paragraph_index": 50,
+      "style_id": "Normal",
+      "paragraph_overrides": {
+        "alignment": "center"
+      },
+      "run_overrides": {
+        "italic": true,
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Source: Toxics Link."
+    },
+    {
+      "paragraph_index": 53,
+      "style_id": "Heading1",
+      "paragraph_overrides": {
+        "alignment": "left",
+        "left_indent_pt": 235.95
+      },
+      "run_overrides": {},
+      "text_snippet": "Problem"
+    },
+    {
+      "paragraph_index": 55,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "The informal and unsafe processing of the e-waste"
+    },
+    {
+      "paragraph_index": 57,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Electronic devices have valuable and hazardous mat"
+    },
+    {
+      "paragraph_index": 59,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "A study of the informal e-waste recycling centers"
+    },
+    {
+      "paragraph_index": 61,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Thus, the issue of waste electronics in Seelampur"
+    },
+    {
+      "paragraph_index": 63,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "The amount of e-waste collected."
+    },
+    {
+      "paragraph_index": 64,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Impressive quantities of e-waste."
+    },
+    {
+      "paragraph_index": 66,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Informal dismantling and recycling"
+    },
+    {
+      "paragraph_index": 67,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Inadequate worker protection"
+    },
+    {
+      "paragraph_index": 68,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Poor waste-residue disposal"
+    },
+    {
+      "paragraph_index": 69,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "A potential source of soil and water contamination"
+    },
+    {
+      "paragraph_index": 70,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Pollution of communities around the area.Nearby co"
+    },
+    {
+      "paragraph_index": 73,
+      "style_id": "Heading1",
+      "paragraph_overrides": {
+        "alignment": "left",
+        "left_indent_pt": 240.05
+      },
+      "run_overrides": {},
+      "text_snippet": "Causes"
+    },
+    {
+      "paragraph_index": 76,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Increased use of electronics.Fast electronic use."
+    },
+    {
+      "paragraph_index": 77,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "The more people own a smartphone, computer, TV and"
+    },
+    {
+      "paragraph_index": 78,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Rapidly changing product life cycles.Faster produc"
+    },
+    {
+      "paragraph_index": 79,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Technological advances and/or changes in consumer"
+    },
+    {
+      "paragraph_index": 80,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Relying on informal recycling as a way of earning"
+    },
+    {
+      "paragraph_index": 81,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "The e-waste includes materials which have value in"
+    },
+    {
+      "paragraph_index": 82,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {
+        "alignment": "both",
+        "left_indent_pt": 35.95
+      },
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Low cost of informal processing"
+    },
+    {
+      "paragraph_index": 84,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "These informal workshops can be based on a relativ"
+    },
+    {
+      "paragraph_index": 85,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {
+        "alignment": "both",
+        "left_indent_pt": 35.95
+      },
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Poor picking and sorting of waste.Poor pick and so"
+    },
+    {
+      "paragraph_index": 86,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Unwanted e-waste sold to the informal scrap recycl"
+    },
+    {
+      "paragraph_index": 87,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {
+        "alignment": "both",
+        "left_indent_pt": 35.95
+      },
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "No awareness and protective equipment"
+    },
+    {
+      "paragraph_index": 89,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Delhi-based informal wasteworkers were involved in"
+    },
+    {
+      "paragraph_index": 90,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": null
+    },
+    {
+      "paragraph_index": 91,
+      "style_id": "Heading1",
+      "paragraph_overrides": {
+        "alignment": "left",
+        "left_indent_pt": 197.2
+      },
+      "run_overrides": {},
+      "text_snippet": "Environmental Impacts"
+    },
+    {
+      "paragraph_index": 93,
+      "style_id": "Normal",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "bold": true,
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Air pollution"
+    },
+    {
+      "paragraph_index": 95,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Electronic components, plastics and wires may emit"
+    },
+    {
+      "paragraph_index": 101,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "If the components and the acidic residues generate"
+    },
+    {
+      "paragraph_index": 105,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Acidic liquids and residues that become contaminat"
+    },
+    {
+      "paragraph_index": 109,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Electronic waste lying in uncovered areas creates"
+    },
+    {
+      "paragraph_index": 113,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Recycling can also be done in an incorrect manner,"
+    },
+    {
+      "paragraph_index": 118,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Many e-waste collectors, informal sector dismantle"
+    },
+    {
+      "paragraph_index": 122,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Workers can use their hands to access electronic c"
+    },
+    {
+      "paragraph_index": 124,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Metallic dust"
+    },
+    {
+      "paragraph_index": 125,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Toxic fumes"
+    },
+    {
+      "paragraph_index": 126,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Sharp components"
+    },
+    {
+      "paragraph_index": 127,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Acidic substances"
+    },
+    {
+      "paragraph_index": 128,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "The smoke of burning substances."
+    },
+    {
+      "paragraph_index": 129,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Hazardous chemicals"
+    },
+    {
+      "paragraph_index": 131,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "In this study, conducted in Delhi, the researchers"
+    },
+    {
+      "paragraph_index": 135,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Pollution from some workshops may not be contained"
+    },
+    {
+      "paragraph_index": 139,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Informality does serve an economically productive"
+    },
+    {
+      "paragraph_index": 141,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "It is key to the case study that not everyone who"
+    },
+    {
+      "paragraph_index": 142,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": null
+    },
+    {
+      "paragraph_index": 143,
+      "style_id": "Heading1",
+      "paragraph_overrides": {
+        "alignment": "left",
+        "left_indent_pt": 220.85
+      },
+      "run_overrides": {},
+      "text_snippet": "Actions Taken"
+    },
+    {
+      "paragraph_index": 145,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "India has continuously beefed up its e-waste regim"
+    },
+    {
+      "paragraph_index": 147,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "One of the main features of the current framework"
+    },
+    {
+      "paragraph_index": 149,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "The Delhi government has also taken various steps"
+    },
+    {
+      "paragraph_index": 151,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "But enforcement of the regulations is a big proble"
+    },
+    {
+      "paragraph_index": 152,
+      "style_id": "BodyText",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 10.0
+      },
+      "text_snippet": null
+    },
+    {
+      "paragraph_index": 153,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "center"
+      },
+      "run_overrides": {
+        "bold": true
+      },
+      "text_snippet": "Figure 2: Informal workers sorting and recovering"
+    },
+    {
+      "paragraph_index": 154,
+      "style_id": "Normal",
+      "paragraph_overrides": {
+        "alignment": "center"
+      },
+      "run_overrides": {
+        "italic": true,
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Source: The Quint."
+    },
+    {
+      "paragraph_index": 155,
+      "style_id": "Normal",
+      "paragraph_overrides": {
+        "alignment": "center"
+      },
+      "run_overrides": {},
+      "text_snippet": null
+    },
+    {
+      "paragraph_index": 156,
+      "style_id": "Heading1",
+      "paragraph_overrides": {
+        "alignment": "left",
+        "left_indent_pt": 203.2
+      },
+      "run_overrides": {},
+      "text_snippet": "Sustainable Solutions"
+    },
+    {
+      "paragraph_index": 158,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Closing informal recycling workshops is not the be"
+    },
+    {
+      "paragraph_index": 162,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "The informal dismantlers should be registered and"
+    },
+    {
+      "paragraph_index": 164,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Worker safety Workers should receive:"
+    },
+    {
+      "paragraph_index": 165,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Gloves"
+    },
+    {
+      "paragraph_index": 166,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Face coverings/face coverings for the hazard (as n"
+    },
+    {
+      "paragraph_index": 167,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Protective eyewear"
+    },
+    {
+      "paragraph_index": 168,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Safety shoes"
+    },
+    {
+      "paragraph_index": 169,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "The school will provide training on the safety of"
+    },
+    {
+      "paragraph_index": 170,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Regular health check-ups"
+    },
+    {
+      "paragraph_index": 172,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {
+        "left_indent_pt": 12.0
+      },
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Safe dismantling centres"
+    },
+    {
+      "paragraph_index": 174,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "It is possible to set up decentralised collection/"
+    },
+    {
+      "paragraph_index": 176,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {
+        "left_indent_pt": 12.0
+      },
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Stronger EPR implementation"
+    },
+    {
+      "paragraph_index": 178,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "There should be a greater role played by producers"
+    },
+    {
+      "paragraph_index": 180,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {
+        "left_indent_pt": 12.0
+      },
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Consumer awareness"
+    },
+    {
+      "paragraph_index": 188,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {
+        "left_indent_pt": 12.0
+      },
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Pollution monitoring"
+    },
+    {
+      "paragraph_index": 190,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Sampling at informal recycling sites of soil, grou"
+    },
+    {
+      "paragraph_index": 192,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Cleaner technology – recovery of resources. The re"
+    },
+    {
+      "paragraph_index": 195,
+      "style_id": "Heading1",
+      "paragraph_overrides": {
+        "alignment": "left",
+        "left_indent_pt": 234.6
+      },
+      "run_overrides": {},
+      "text_snippet": "Outcome"
+    },
+    {
+      "paragraph_index": 197,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Informal recycling is working to establish a viabl"
+    },
+    {
+      "paragraph_index": 199,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Substantial environmental and occupational risks a"
+    },
+    {
+      "paragraph_index": 201,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Although, the governments have done their bit with"
+    },
+    {
+      "paragraph_index": 202,
+      "style_id": "BodyText",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 10.0
+      },
+      "text_snippet": null
+    },
+    {
+      "paragraph_index": 205,
+      "style_id": "Heading1",
+      "paragraph_overrides": {
+        "alignment": "center",
+        "left_indent_pt": 12.0
+      },
+      "run_overrides": {},
+      "text_snippet": "Lessons Learned"
+    },
+    {
+      "paragraph_index": 207,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "The lessons to be learnt from the Seelampur case a"
+    },
+    {
+      "paragraph_index": 209,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Environmental difficulties are frequently related"
+    },
+    {
+      "paragraph_index": 210,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Recycling is not necessarily \"green\" in and of its"
+    },
+    {
+      "paragraph_index": 211,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "The informal sector is a part of the environmental"
+    },
+    {
+      "paragraph_index": 213,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "As noted above, producer responsibility is key. Ma"
+    },
+    {
+      "paragraph_index": 214,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Consumer behaviour matters. Less e-waste going int"
+    },
+    {
+      "paragraph_index": 215,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {},
+      "run_overrides": {
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "There is a need for enforcement and infrastructure"
+    },
+    {
+      "paragraph_index": 218,
+      "style_id": "Heading1",
+      "paragraph_overrides": {
+        "alignment": "left",
+        "left_indent_pt": 229.0
+      },
+      "run_overrides": {},
+      "text_snippet": "Our Analysis"
+    },
+    {
+      "paragraph_index": 220,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "One should not consider the situation in Seelampur"
+    },
+    {
+      "paragraph_index": 222,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "The informal sector exists in part because it is a"
+    },
+    {
+      "paragraph_index": 224,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Meanwhile, the responsibility needs to be pushed f"
+    },
+    {
+      "paragraph_index": 227,
+      "style_id": "Heading1",
+      "paragraph_overrides": {
+        "alignment": "left",
+        "left_indent_pt": 232.35
+      },
+      "run_overrides": {},
+      "text_snippet": "Conclusion"
+    },
+    {
+      "paragraph_index": 229,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "The e-waste issue in Seelampur is a tough one beca"
+    },
+    {
+      "paragraph_index": 231,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "The E-Waste Management Rules, 2022, and the Extend"
+    },
+    {
+      "paragraph_index": 232,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": null
+    },
+    {
+      "paragraph_index": 233,
+      "style_id": "Heading1",
+      "paragraph_overrides": {
+        "alignment": "left",
+        "left_indent_pt": 233.05
+      },
+      "run_overrides": {},
+      "text_snippet": "References"
+    },
+    {
+      "paragraph_index": 235,
+      "style_id": "ListParagraph",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {
+        "bold": true,
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Government of India — E-Waste Management Rules, 20"
+    },
+    {
+      "paragraph_index": 236,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {
+        "italic": true
+      },
+      "text_snippet": "Ministry of Environment, Forest and Climate Change"
+    },
+    {
+      "paragraph_index": 237,
+      "style_id": "Heading1",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "CPCB — E-Waste Management / EPR"
+    },
+    {
+      "paragraph_index": 238,
+      "style_id": "Normal",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {
+        "font_size_pt": 12.0,
+        "italic": true
+      },
+      "text_snippet": "Central Pollution Control Board. E-Waste Managemen"
+    },
+    {
+      "paragraph_index": 239,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "CPCB E-Waste EPR Portal"
+    },
+    {
+      "paragraph_index": 240,
+      "style_id": "Heading1",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Delhi Government — E-Waste"
+    },
+    {
+      "paragraph_index": 241,
+      "style_id": "BodyText",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {
+        "italic": true,
+        "color": "0000FF"
+      },
+      "text_snippet": "Department of Environment, Government of NCT of De"
+    },
+    {
+      "paragraph_index": 242,
+      "style_id": "Heading1",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Peer-reviewed study — Worker health"
+    },
+    {
+      "paragraph_index": 243,
+      "style_id": "Normal",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {
+        "font_size_pt": 12.0,
+        "italic": true
+      },
+      "text_snippet": "Arya, S. et al. Knowledge, Attitude and Practice S"
+    },
+    {
+      "paragraph_index": 244,
+      "style_id": "Normal",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {
+        "bold": true,
+        "font_size_pt": 12.0
+      },
+      "text_snippet": "Journal of Environmental and Public Health, 2021."
+    },
+    {
+      "paragraph_index": 245,
+      "style_id": "Heading1",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Peer-reviewed study — Soil contamination"
+    },
+    {
+      "paragraph_index": 246,
+      "style_id": "Normal",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {
+        "italic": true,
+        "font_size_pt": 12.0,
+        "bold": true
+      },
+      "text_snippet": "Evaluation of soil contamination due to crude E-wa"
+    },
+    {
+      "paragraph_index": 247,
+      "style_id": "Heading1",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Toxics Link — Informal recycling in Delhi"
+    },
+    {
+      "paragraph_index": 248,
+      "style_id": "Normal",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {
+        "font_size_pt": 12.0,
+        "italic": true
+      },
+      "text_snippet": "Toxics Link. Informal E-Waste Recycling in Delhi:"
+    },
+    {
+      "paragraph_index": 249,
+      "style_id": "Heading1",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {},
+      "text_snippet": "Recent Seelampur study"
+    },
+    {
+      "paragraph_index": 250,
+      "style_id": "Normal",
+      "paragraph_overrides": {
+        "alignment": "both"
+      },
+      "run_overrides": {
+        "font_size_pt": 12.0,
+        "italic": true,
+        "bold": true
+      },
+      "text_snippet": "Yadav, M., Gupta, J. & Gupta, P. Exploring the pro"
+    }
+  ]
+}
